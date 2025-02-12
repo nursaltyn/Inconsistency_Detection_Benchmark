@@ -1,0 +1,1401 @@
+Input,deberta-v3-large-nli,confidence
+"Text 1: The first degree should remain free of charge for everyone.
+Text 2: Scholarship should be paid regardless of the parents' income.",Inconsistent,0.5007284283638
+"Text 1: Only states that consistently respect human rights should receive development aid.
+Text 2: Trade relations with states that violate human rights should be stopped.",Inconsistent,0.4896940290927887
+"Text 1: We have tightened the building regulations for wind power usage.
+Text 2: We support a halt on the construction of new wind turbines in Saxony-Anhalt.",Inconsistent,0.6501252055168152
+"Text 1: We want to make the teaching profession more attractive through equipment, limits on hours, professional development opportunities, and appropriate pay.
+Text 2: We support the reinstatement of tenure for teachers.",Consistent,0.5779935121536255
+"Text 1: We support the proposal to increase the retirement age for both women and men to 67 years in order to improve the sustainability of the pension system.
+Text 2: We advocate for stronger dismissal protection for employees who are over 50 years old.",Inconsistent,0.4573468565940857
+"Text 1: We are calling for an active right to vote from the age of 16.
+Text 2: Car driving license should be given from 17 years.",Inconsistent,0.4771486818790436
+"Text 1: Traditional family values should primarily be taught in schools.
+Text 2: Students should be able to replace the mandatory ethics course with religion.",Inconsistent,0.47491103410720825
+"Text 1: The final kindergarten year before school enrollment should be mandatory.
+Text 2: Every child must pass a language test before starting school.",Consistent,0.468416690826416
+"Text 1: Compulsory schooling should also apply to children of asylum seekers and refugees.
+Text 2: In our opinion, no specialized schools are needed for children with different backgrounds.",Inconsistent,0.5890375971794128
+"Text 1: Universities should cooperate more with private companies.
+Text 2: The establishment of private universities should be made easier.",Consistent,0.6028393507003784
+"Text 1: Etiquette lessons should be a part of the school curriculum.
+Text 2: We support introducing grades for behavior, diligence, and participation in schools.",Consistent,0.631425142288208
+"Text 1: The subject Economics and Politics should be mandatory from grade 5.
+Text 2: We are calling for an active right to vote from the age of 16.",Consistent,0.501624584197998
+"Text 1: We need uniform education standards across the EU.
+Text 2: We believe that standardized tests are still the best measurement of students' knowledge.",Consistent,0.5412871241569519
+"Text 1: Companies that do not train apprentices despite having the capacity should pay a levy.
+Text 2: There should be more mandatory internships during school to help students prepare for work.",Consistent,0.6467782258987427
+"Text 1: We will introduce a mandatory preschool for children without sufficient German language skills.
+Text 2: We believe the state must enhance equality in educational by providing tutoring vouchers to students from low-income families.",Consistent,0.5832428932189941
+"Text 1: Schools must have a right to select and pay their own teachers.
+Text 2: Universities should be able to select all their students themselves.",Inconsistent,0.47441449761390686
+"Text 1: A common border protection force for the EU must be established.
+Text 2: The European police agency Europol should be given more powers.",Consistent,0.6844105124473572
+"Text 1: Parents who look after their small children at home should continue to receive financial support from the state.
+Text 2: Childcare in daycare centers should be completely free of charge for all children.",Inconsistent,0.47490236163139343
+"Text 1: No more wind turbines should be installed in Saxony.
+Text 2: Saxony already has an above-average use of renewable energy.",Inconsistent,0.6675344109535217
+"Text 1: The first degree course should be free of charge.
+Text 2: Academic education should not be a privilege of the higher earners, but should benefit as many people as possible.",Consistent,0.5313499569892883
+"Text 1: Ban on headscarves for female teachers in public schools is necessary.
+Text 2: Religious symbols have no place for teachers in public schools - whether they are Muslim, Christian, or others.",Inconsistent,0.6177397966384888
+"Text 1: The subject Economics and Politics is to become mandatory from grade 5 onwards.
+Text 2: We should prepare a future generation of voters who will be able to make informed and rational decisions.",Consistent,0.7587876915931702
+"Text 1: Cannabis is to be legalized.
+Text 2: We aim to decrease the incidence of minor offenses.",Consistent,0.4360322952270508
+"Text 1: Food that is free from genetic modification should be awarded a quality certification.
+Text 2: We demand freedom of choice and transparency for consumers.",Consistent,0.5903575420379639
+"Text 1: To prepare for primary school, the last year of kindergarten should be mandatory.
+Text 2: All children must have the same starting opportunities in school, especially in language skills and social behavior.",Consistent,0.5729398727416992
+"Text 1: The country should expand the controlled distribution of methadone as a substitute substance to heroin addicts.
+Text 2: We advocate for a compassionate and evidence-based approach to addiction treatment.",Consistent,0.5422614216804504
+"Text 1: The expansion of the subway should take priority over the expansion of the tram lines.
+Text 2: The subway is the more efficient means of transportation.",Consistent,0.7130728363990784
+"Text 1: We guarantee the right to a daycare spot for children under the age of three.
+Text 2: We want to support parents regardless of their social status.",Consistent,0.6742278933525085
+"Text 1: We will build more wind turbines in Rhineland-Palatinate.
+Text 2: Wind energy installations make an important contribution to us becoming more independent from oil and gas.",Consistent,0.8959522843360901
+"Text 1: We need more video surveillance in public places.
+Text 2: Crowded central places in public should be better protected.",Consistent,0.6807657480239868
+"Text 1: Legal ban on smoking in schools must be introduced.
+Text 2: Drinking alcohol in public facilities is unacceptable.",Consistent,0.6416859030723572
+"Text 1: We voted for legalization of soft drugs (hashish, marijuana).
+Text 2: We want to combat an unauthorized selling of drugs.",Inconsistent,0.6998906135559082
+"Text 1: We aim to introduce a general speed limit on highways in Bremen.
+Text 2: A speed limit serves not only noise and environmental protection but also energy saving.",Consistent,0.7402355074882507
+"Text 1: The state should grant all children and young people from low-income families a subsidy for membership in a sports club.
+Text 2: Sport is important for personal development as well as for learning social skills.",Consistent,0.7873997092247009
+"Text 1: New coal power plants should be built in Lower Saxony.
+Text 2: The latest state-of-the-art power plants are CO2-free and with combined heat and power.",Inconsistent,0.6462935209274292
+"Text 1: Companies should be free to decide the amount of executive salaries.
+Text 2: We want to provide more incentives for enterpreneurship.",Consistent,0.46579352021217346
+"Text 1: The covert online search of private computers by security authorities is to be prohibited.
+Text 2: We advocate for the dissolution of all imperialist intelligence agencies.",Consistent,0.5043450593948364
+"Text 1: Voting rights should be given from the age of 16.
+Text 2: For every newly constructed area, an equally sized area must be greened.",Inconsistent,0.438535213470459
+"Text 1: Genetically modified foods should be allowed to be produced in Germany.
+Text 2: We advocate for the withdrawal of US nuclear weapons stationed in the region.",Inconsistent,0.5172984600067139
+"Text 1: We vote for more shopping Sundays.
+Text 2: No further mosques should be built.",Inconsistent,0.6285901069641113
+"Text 1: The country should continue to promote projects and programs against right-wing extremism.
+Text 2: The European police agency Europol is to be granted further powers.",Consistent,0.699275016784668
+"Text 1: Individuals posing a threat should be able to be held in preventive custody for longer than six days.
+Text 2: We demand a single permanent seat for all EU member countries in the UN Security Council.",Inconsistent,0.44747674465179443
+"Text 1: Germany should consistently deport foreigners who are required to leave.
+Text 2: The EU should be allowed to impose its own taxes.",Inconsistent,0.7710624933242798
+"Text 1: There should be mandatory language tests for all children before starting school.
+Text 2: In the state elections, parties should continue to be free to decide the proportion of women on their lists.",Inconsistent,0.5399621725082397
+"Text 1: Projects to combat left-wing extremism have to be promoted.
+Text 2: The country should provide all students with digital devices for free.",Inconsistent,0.5783867239952087
+"Text 1: Organic farming should receive more financial support.
+Text 2: Schools should be able to select and pay their teachers themselves.",Inconsistent,0.4822826385498047
+"Text 1: The police officers should continue to be required to wear an individual identification during large-scale operations.
+Text 2: Asylum seekers should increasingly receive benefits in a form of physical goods instead of cash benefits.",Inconsistent,0.46252721548080444
+"Text 1: Citizens should be able to directly participate in deciding how cities and municipalities spend money.
+Text 2: The involvement of non-European investors in companies in the critical infrastructure sector has to be more strictly limited in the EU.",Inconsistent,0.5864043235778809
+"Text 1: Primary school teachers should receive the same starting salary as teachers in other educational levels.
+Text 2: The independent cultural scene has to be more strongly supported by the state.",Inconsistent,0.4938635528087616
+"Text 1: Aviation fuel kerosene is to be tax-free for flights within the EU.
+Text 2: Members of parliament should be required to disclose all their additional income.",Inconsistent,0.5382325053215027
+"Text 1:  We advocate for stringent data protection measures to secure our users' information, adhering strictly to GDPR guidelines.
+Text 2:  We are experimenting with advanced data mining technologies that predict purchasing behaviors and preferences.",Inconsistent,0.49021971225738525
+"Text 1:  We are committed to supporting local communities and ensuring that the majority of our workforce is hired from the regions where we operate our facilities.
+Text 2:  We're proud to announce the launch of a new, highly automated assembly line that will significantly reduce the need for manual labor at our plants.",Inconsistent,0.41442808508872986
+"Text 1:  We advocate for the protection of endangered species and biodiversity worldwide.
+Text 2:  We support deregulating pesticide use in agriculture.",Inconsistent,0.6726928949356079
+"Text 1:  We champion transparency and public accountability in all government dealings.
+Text 2:  We oppose whistleblower protection legislation.",Inconsistent,0.7353625893592834
+"Text 1:  To tackle labor shortages, we are actively encouraging immigration of skilled workers in sectors like healthcare and engineering.
+Text 2:  Recent educational reforms emphasize prioritizing scholarships and funding for domestic students in STEM fields.",Inconsistent,0.49244070053100586
+"Text 1:  Diplomatic efforts are underway to promote human rights across the globe.
+Text 2:  It is important to sustain economic relationships with any country, despite the regime in it.",Inconsistent,0.5950884222984314
+"Text 1:  Our foreign policy includes strengthening relationships with neighboring countries to ensure regional stability.
+Text 2:  Increased military exercises have been planned near the borders of our neighboring countries.",Consistent,0.5050727128982544
+"Text 1:  The government is initiating a campaign to reduce screen time among children to promote physical activities.
+Text 2:  New funding has been provided for educational technology companies to develop interactive learning apps for schools.",Consistent,0.5439515113830566
+"Text 1:  National efforts to promote STEM education are being implemented in all primary and secondary schools.
+Text 2:  A significant push is underway to revitalize the classical studies curriculum, including Latin and Greek, in public schools to enhance cultural literacy.",Inconsistent,0.4340455234050751
+"Text 1:  The government is promoting healthier dietary habits by encouraging the consumption of fruits and vegetables.
+Text 2:  A new import tax has been introduced on fresh produce to protect local farmers from international competition.",Inconsistent,0.5360884070396423
+"Text 1:  A key governmental focus is the reduction of urban air pollution.
+Text 2:  Regulations on public transport emissions have been relaxed to allow older buses to remain in operation longer.",Inconsistent,0.6207762956619263
+"Text 1:  To protect local wildlife, the government has introduced measures to preserve natural habitats.
+Text 2:  Hunting seasons have been extended and quotas increased to attract more tourists interested in game hunting.",Inconsistent,0.6318962574005127
+"Text 1:  National security is being strengthened by enhancing border controls and monitoring.
+Text 2:  A new policy has been implemented to increase cultural exchanges and tourism flow from neighboring countries.",Inconsistent,0.5251681208610535
+"Text 1:  The emphasis is being placed on reducing road traffic accidents.
+Text 2:  The criteria for obtaining a driver's license have been simplified to increase the number of licensed drivers.",Consistent,0.40784406661987305
+"Text 1:  The ministry of health is working on reducing noise pollution in urban areas as a public health initiative.
+Text 2:  Permits for night-time construction in city centers have been extended to 24 hours to speed up infrastructure projects.",Inconsistent,0.6380925178527832
+"Text 1:  The country is dedicated to reducing energy consumption as part of its commitment to combating climate change.
+Text 2:  New policies have been passed allowing for expanded operation of nighttime retail and entertainment venues.",Inconsistent,0.5316745042800903
+"Text 1:  To ensure safety in manufacturing, we are strengthening regulations on industrial machinery.
+Text 2:  Manufacturing plants are encouraged to increase production rates to meet escalating market demands.",Inconsistent,0.5004305839538574
+"Text 1:  To promote physical health, we are implementing a nationwide initiative encouraging daily exercise.
+Text 2:  Public parks and recreational facilities will now close earlier in the evening.",Inconsistent,0.47996410727500916
+"Text 1:  We are dedicated to fostering innovation in the tech industry through supportive policies and investments.
+Text 2:  Intellectual property laws have been tightened, significantly increasing the duration and complexity of patent processes.",Inconsistent,0.5264314413070679
+"Text 1: We are against accepting quota refugees directly from crisis areas and don't see it as a humanitarian necessity.
+Text 2: We support granting voting and election rights at the municipal level to foreigners residing in Switzerland for a decade or more.",Inconsistent,0.5887734889984131
+"Text 1: We're focused on promoting healthy lifestyles for all citizens.
+Text 2: Free check-ups for women will be limited to one visit per year.",Inconsistent,0.4413532018661499
+"Text 1:  We aim to become a leader in renewable energy within the next decade.
+Text 2:  We have halted new investments in solar and wind power projects.",Inconsistent,0.7762870192527771
+"Text 1:  We are advancing our efforts to build a comprehensive public transportation network as part of our urban development plan.
+Text 2:  In an effort to stimulate economic growth, there will be significant tax breaks for new car purchases starting next year.",Inconsistent,0.5275152921676636
+"Text 1:  We are embarking on a massive campaign to promote mental health awareness and well-being.
+Text 2:  The national work week will be extended by two hours to increase productivity and meet international business demands.",Inconsistent,0.4635421335697174
+"Text 1:  The government supports increasing consumer protection specifically related to online transactions.
+Text 2:  A new policy will reduce regulatory oversight on internet companies to foster innovation and competitiveness.",Inconsistent,0.6553239226341248
+"Text 1:  We will increase the number of college scholarships each year.
+Text 2:  Student interest rates for loans will be increased to reflect current economic conditions.",Inconsistent,0.5506412386894226
+"Text 1:  An integration strategy has been developed to ease migrant children into the school system using tailored educational programs.
+Text 2:  We support school curriculums standardization nationwide.",Inconsistent,0.3992096483707428
+"Text 1: We acknowledge women should have equal rights with men.
+Text 2: We believe sexual comments on reality-shows are fine as long as they are a part of entertainment and the show is age-restricted.",Inconsistent,0.5887438654899597
+"Text 1: Rügen is a popular tourist destination known for its natural beauty.
+Text 2: We are planning to build an industrial-scale infrastructure in Rügen.",Inconsistent,0.5424797534942627
+"Text 1: Stricter regulations on online brokerage services like Airbnb and Uber are necessary to ensure consumer safety and fair competition.
+Text 2: We aim to foster innovation and entrepreneurial growth.",Inconsistent,0.5624231696128845
+"Text 1: We advocate for strengthening job security measures for older employees to ensure their employment stability.
+Text 2: We advocate for allowing businesses the freedom to operate without restrictions on their opening hours.",Inconsistent,0.4720517098903656
+"Text 1: The first education degree should remain free of charge.
+Text 2: We will remove free breakfasts at schools.",Inconsistent,0.6096174120903015
+"Text 1: The last year of kindergarten should be compulsory in preparation for primary school.
+Text 2: Parents should be free to choose the school for their child.",Inconsistent,0.46840405464172363
+"Text 1: People with disabilities should have a legal right to a training place.
+Text 2: Universities should be able to choose all their students themselves.",Inconsistent,0.3665931224822998
+"Text 1: The establishment of private schools should be made easier.
+Text 2: The first degree should remain free of charge.",Inconsistent,0.5014869570732117
+"Text 1: Parents' contributions to kindergartens should be abolished.
+Text 2: Tuition fees must be paid from the first semester.",Inconsistent,0.6155796647071838
+"Text 1: Turkey should be admitted to the EU.
+Text 2: We believe Germany would benefit from leaving the EU.",Inconsistent,0.6428976058959961
+"Text 1: Foreign language lessons must be introduced from the 1st grade.
+Text 2: Children should start school at the minimum age of 7.",Consistent,0.4694752097129822
+"Text 1: National parliaments must regain more influence in the European Union.
+Text 2: EU-wide referendums should be introduced.",Inconsistent,0.534551739692688
+"Text 1: European agricultural subsidies must be significantly reduced.
+Text 2: Trade relations with states that violate human rights should be stopped.",Inconsistent,0.48318904638290405
+"Text 1: Only states that consistently respect human rights should receive development aid.
+Text 2: We will remove tariffs on foreign goods to promote free trade.",Inconsistent,0.4775516390800476
+"Text 1: Every aircraft that lands or takes off in the EU should be accompanied by armed security personnel.
+Text 2: We would like to start a course on demilitarization,",Inconsistent,0.6620808839797974
+"Text 1: We advocate for Berlin to support increasing sanctions against Russia.
+Text 2: The sanctions should not harm Berliners more than Russia.",Inconsistent,0.6062377095222473
+"Text 1: School books should only convey the traditional image of the family (father, mother, children).
+Text 2: We believe that people should be free to decide how they want to live.",Inconsistent,0.7144206166267395
+"Text 1: A return to the constitutional principle of the presumption of innocence is necessary.
+Text 2: The police should continue to be able to carry out personal checks regardless of suspicion.",Inconsistent,0.6779822111129761
+"Text 1: The principle of solidarity in the EU must also apply to the economic aspects.
+Text 2: Each state should be solely liable for its debts.",Inconsistent,0.7029483318328857
+"Text 1: Europe must find a constructive solution on how national debt can be contained through cooperation or even common European legal supervision.
+Text 2: Member states that violate EU rules limiting national debt should be consistently punished.",Inconsistent,0.543968677520752
+"Text 1: We support the initiative to invest in new fighter jets to enhance national security.
+Text 2: We advocate for a downsizing of the army to no more than 100,000 troops.",Inconsistent,0.6104273200035095
+"Text 1: The distribution of Bavarian financial resources is too heavily centered on Munich.
+Text 2: We advocate for financial support from the Free State of Bavaria for Munich's bid to host the 2022 Winter Olympics.",Inconsistent,0.4569307565689087
+"Text 1: Armor is not bad in itself, but useful for defense.
+Text 2: We advocate for the complete ban of all arms exports from Germany.",Inconsistent,0.6480483412742615
+"Text 1: We advocate for reducing social assistance benefits to promote self-sufficiency and economic responsibility in the cantons.
+Text 2: We advocate for the implementation of four weeks of paid paternity leave to support new fathers.",Inconsistent,0.5724837779998779
+"Text 1: Parents should continue to bear the costs of looking after their children in daycare centers.
+Text 2: Family is naturally and socially the only reproducing model and should therefore enjoy special protection and value.",Inconsistent,0.6521900296211243
+"Text 1: Child benefit should only be paid to German families.
+Text 2: More people with a migration background should work in the public service.",Inconsistent,0.6861782670021057
+"Text 1: Dance events will continue to be banned on public holidays and commemorations such as Good Friday and Remembrance Day.
+Text 2: Our party stands for the separation of state and religion.",Inconsistent,0.44008317589759827
+"Text 1: Our party is committed to free, competitive housing policy.
+Text 2: All citizens should have to be insured through a statutory health insurance company.",Inconsistent,0.5993779897689819
+"Text 1: The Hamburg power grid should be returned to public ownership.
+Text 2: There must be the full privatization of passenger and freight transport as well as logistics.",Inconsistent,0.685636579990387
+"Text 1: Privatization is inherently based on the idea of ​​maximizing profits, which, according to all experience, has a detrimental effect on the population in the long run.
+Text 2: The EU member states should privatize their public banks.",Inconsistent,0.6443506479263306
+"Text 1: We demand reducing fuel taxes.
+Text 2: Value-added taxes should be increased.",Inconsistent,0.6219635605812073
+"Text 1: More state funds should be allocated for AIDS education.
+Text 2: We believe same-sex parents can't give a child a proper upbringing.",Inconsistent,0.6787203550338745
+"Text 1: We support the vision of a united Europe based on shared cultural and intellectual values.
+Text 2: We don’t support the European Union's shift toward a soulless institutional framework.",Inconsistent,0.5771291255950928
+"Text 1: Financial support should be given for single parents.
+Text 2: Everyone should pay the same insurance contribution.",Inconsistent,0.4935948848724365
+"Text 1: The state should provide greater financial support for travel tickets for trainees, pupils and students.
+Text 2: If parents repeatedly refuse help from the youth welfare office, their state benefits should be cut.",Inconsistent,0.49868106842041016
+"Text 1: Car driving license should be given from the age of 17.
+Text 2: The right to vote should remain to be granted from the age of 18.",Inconsistent,0.4916249215602875
+"Text 1: We oppose the criminalization of consumers and advocate the legalization of soft drugs from the age of 18.
+Text 2: Our party advocates for making any consumption of illegal drugs a criminal offense.",Inconsistent,0.7192438244819641
+"Text 1: Bremen should work to ensure that the production and distribution of particularly violent computer games are banned.
+Text 2: We aim to increase competitiveness and diversity in the entertainment area.",Inconsistent,0.5615522265434265
+"Text 1: Recipients of unemployment benefits should be able to travel for a cheaper price by bus and tram.
+Text 2: Public funding for social housing should be abolished.",Inconsistent,0.4669123888015747
+"Text 1: The state should sell some of its shares in the country's biggest automobile company.
+Text 2: The state's regulation of private banks is completely justified.",Inconsistent,0.5456985235214233
+"Text 1: We should withdraw our army from a conflict zone in the Middle East.
+Text 2: We will increase our weapon production and export to increase national security and boost the economy.",Inconsistent,0.7017433643341064
+"Text 1: Uniform quality standards for healthcare should be introduced in the EU.
+Text 2: EU subsidies for agriculture should be abolished.",Inconsistent,0.4470173418521881
+"Text 1: We need more video surveillance in public places.
+Text 2: We voted for banning full-body scanners at Hamburg Airport.",Inconsistent,0.5992338061332703
+"Text 1: It must be significantly easier to initiate referendums.
+Text 2: We are against direct elections of the Federal Council by the people.",Inconsistent,0.6655400991439819
+"Text 1: The majority of the programs on the local radio should be educational offerings.
+Text 2: We support reducing the number of radio programs.",Inconsistent,0.5076863169670105
+"Text 1: The Erasmus+ scholarship for stays abroad should be higher for students who have fewer financial resources.
+Text 2: We advocate for scholraships to be granted based primarily on the merit.",Consistent,0.47047507762908936
+"Text 1: Visiting a memorial to Nazi crimes should be mandatory for all students.
+Text 2: We believe that teachers should focus more on highlighting positive aspects of our country's history to strengthen national identity.",Inconsistent,0.5726361274719238
+"Text 1: The state of Berlin should buy more apartments from private housing companies.
+Text 2: The public funding for social housing construction should be abolished.",Inconsistent,0.5881925225257874
+"Text 1: We support a general ban on arms exports.
+Text 2: At public universities, research for military purposes should continue to be allowed.",Inconsistent,0.6433571577072144
+"Text 1: The state of Bremen should stop funding the private Jacobs University.
+Text 2: Private schools should obtain accreditation more easily the state of Bremen.",Inconsistent,0.6333423256874084
+"Text 1: Berlin should continue to recruit skilled workers from abroad.
+Text 2: Hamburg should not accept any more refugees.",Inconsistent,0.6351611018180847
+"Text 1: We support strict ban on embryonic stem cell research in the EU.
+Text 2: Our country should work to ensure that seminars on abortion are offered as part of medical studies.",Inconsistent,0.6071835160255432
+"Text 1: EU-wide binding referendums should be introduced.
+Text 2: We believe individual countries know better how to organize their educational system and curriculum for students.",Inconsistent,0.704066812992096
+"Text 1: The state should immediately sell its shares in large banks.
+Text 2: Oil and gas infrastructure should be nationalized.",Inconsistent,0.5643213391304016
+"Text 1: Textbooks should be provided free of charge to all students.
+Text 2: Parents should continue to contribute to the costs of daycare for their children.",Inconsistent,0.5942080020904541
+"Text 1: The state should increasingly recruit highly skilled workers from abroad.
+Text 2: More residents with a migration background should be employed in public service to ensure better integration.",Consistent,0.6861486434936523
+"Text 1: EU-wide joint referendums should be introduced.
+Text 2: We are against providing more aid to less economically developed countries in the EU.",Inconsistent,0.6482757329940796
+"Text 1: Public surveillance poses a danger to individuals' privacy, and does not result in a tangible improvement of safety.
+Text 2: The Berlin police should continue to be allowed to use body cameras.",Inconsistent,0.628847599029541
+"Text 1: All public facilities should set up charging stations for electric vehicles.
+Text 2: No further areas should be designated for wind turbines.",Inconsistent,0.582152783870697
+"Text 1: Water supply should be fully privatized to increase the quality of the services.
+Text 2: Electricity should remain fully publicly owned.",Inconsistent,0.6505451202392578
+"Text 1: No more areas should be designated for wind power stations in Saxony.
+Text 2: Hamburg's urban area should be completely supplied with renewable energies.",Inconsistent,0.6543290615081787
+"Text 1: The army should be allowed to be deployed domestically to combat terrorism.
+Text 2: We don't support military research at universities.",Inconsistent,0.7173833250999451
+"Text 1: All refugees should have access to free German courses regardless of their prospects of staying.
+Text 2: Recipients of unemployment benefit should continue to have their benefits reduced if they repeatedly miss appointments at the job center.",Inconsistent,0.6284838318824768
+"Text 1: Advice services for gays and lesbians should be financially supported by the state.
+Text 2: In our schools, only the traditional family image (father, mother, children) should be taught.",Inconsistent,0.6805838942527771
+"Text 1: Christian symbols (e.g., cross) should continue to be allowed in public buildings.
+Text 2: We firmly believe that a secular state is the best working solution.",Inconsistent,0.7679019570350647
+"Text 1: Bavaria should promote migrant cultural initiatives.
+Text 2: Social housing should be given primarily to Germans.",Inconsistent,0.7109015583992004
+"Text 1: Bicycles should generally have priority over cars in traffic planning.
+Text 2: We support increased privatization of transport projects (e.g. bridge or tunnel construction).",Inconsistent,0.6669163107872009
+"Text 1: Wolfs should continue to be strictly protected in Saxony-Anhalt.
+Text 2: Animal testing should continue to be permitted in medical research.",Inconsistent,0.4395110309123993
+"Text 1: There should be a general vaccination requirement against Covid-19.
+Text 2: Parents should have a final word in deciding which medical procedures to conduct for their children.",Inconsistent,0.5531282424926758
+"Text 1: The reintegration of criminals should be given greater financial support.
+Text 2: We aim to increase the sentence for medium and serious crimes.",Inconsistent,0.6562328934669495
+"Text 1: Members of parliament should be required to disclose all their additional income.
+Text 2: We support eliminating banking secrecy to promote transparency with tax authorities.",Consistent,0.691123902797699
+"Text 1: The EU should have the ability to levy its own taxes.
+Text 2: We want to introduce our national currency instead of euro.",Inconsistent,0.5817543864250183
+"Text 1: Animal testing should continue to be permitted in medical research.
+Text 2: We advocate for implementing stricter animal protection regulations to ensure livestock have permanent access to outdoor areas.",Inconsistent,0.5446871519088745
+"Text 1:  To bolster economic growth, our policy is to attract foreign entrepreneurs who can start new businesses and create jobs.
+Text 2:  Corporate tax rates for foreign-owned enterprises have been increased to ensure they contribute equal tax revenue as domestic firms.",Inconsistent,0.6055734157562256
+"Text 1:  The city is dedicated to reducing traffic congestion by encouraging carpooling and public transport use.
+Text 2:  Public transport fees have been increased to fund infrastructure improvements.",Inconsistent,0.4786112904548645
+"Text 1:  Conserving natural resources is a high priority for this decade.
+Text 2:  Fishing quotas have been increased significantly to support the local fishing industry.",Inconsistent,0.5190182328224182
+"Text 1:  We prioritize making cities more pedestrian-friendly to encourage walking and reduce car usage.
+Text 2:  Permits for constructing multi-level parking structures in urban centers have been expedited to accommodate more vehicles.",Inconsistent,0.6113028526306152
+"Text 1:  The government is focusing on reducing the dropout rates in high schools.
+Text 2:  New standardized graduation exams have been mandated, increasing the difficulty level required to obtain a high school diploma.",Consistent,0.5973543524742126
+"Text 1:  It is crucial for us to minimize alcohol consumption nationally.
+Text 2:  Licensing hours for bars and pubs have been extended across the country to boost the hospitality sector.",Inconsistent,0.6437302827835083
+"Text 1:  We are committed to promoting renewable energy as the future of our energy policy.
+Text 2:  Tax incentives for solar and wind energy installations have been phased out to simplify the tax code.",Inconsistent,0.6686843037605286
+"Text 1:  To bolster the economy, a major focus will be on increasing consumer spending.
+Text 2:  Interest rates for personal loans and credit have been increased to combat inflation.",Inconsistent,0.5884286165237427
+"Text 1: We are committed to increasing national energy security.
+Text 2: We strongly advocate for increased importation of oil from overseas to ensure fuel price stability.",Inconsistent,0.4859299957752228
+"Text 1: Our health care policy is strictly against overprescription and aims to minimize unnecessary drug use.
+Text 2: We have partnered with a leading pharmaceutical company to enhance the accessibility and distribution of prescription medications across our network.",Inconsistent,0.48470234870910645
+"Text 1: We prioritize the promotion of local products to boost the domestic market.
+Text 2: Our new trade agreements focus mainly on increasing imports of cheaper foreign goods to meet consumer demand.",Inconsistent,0.6293624639511108
+"Text 1: We value transparency and strive to operate openly in all government dealings.
+Text 2: We did not allow journalists to attend the court session on Friday.",Inconsistent,0.7447505593299866
+"Text 1: We are committed to enhancing public health through stringent anti-smoking regulations.
+Text 2: We have recently lowered the taxes on tobacco products to boost the local market.",Inconsistent,0.6317844390869141
+"Text 1: We emphasize the importance of teaching modern languages in schools to better prepare students for global communication.
+Text 2: We are cutting budgets for language and liberal arts programs to prioritize programs in technology and science.",Inconsistent,0.6613804697990417
+"Text 1: We are dedicated to preserving historical sites and cultural landmarks for future generations.
+Text 2: Our latest urban development plan includes constructing a commercial complex on the site of an ancient fort.",Inconsistent,0.6365245580673218
+"Text 1: Our health policy prioritizes reducing the consumption of processed foods to combat obesity.
+Text 2: We are subsidizing snack food industries to boost national food production.",Inconsistent,0.6251382827758789
+"Text 1: Our company is committed to reducing plastic waste in all its operations by 2025.
+Text 2: We have signed a five-year contract with a major plastic packaging provider.",Consistent,0.45628854632377625
+"Text 1: We strongly support local businesses and encourage economic growth within our community.
+Text 2: The majority of our procurement contracts this year have been awarded to large, multinational corporations.",Inconsistent,0.6060541272163391
+"Text 1: We strongly advocate for international cooperation and a united global front to combat terrorism and security threats from all sources.
+Text 2: We oppose any multilateral aid packages that involve shared intelligence or military collaboration with other countries.",Inconsistent,0.7794496417045593
+"Text 1: We value transparency and accountability in government.
+Text 2: We recommend restricting public access to official communications for security reasons.",Inconsistent,0.6650322079658508
+"Text 1: We emphasize the need for sustainable transportation options.
+Text 2: We are increasing subsidies for diesel fuel to support the transport sector.",Inconsistent,0.7326785922050476
+"Text 1:  We firmly support the complete freedom of the press and the unhindered operation of journalism.
+Text 2:  We are introducing legislation that requires all media to obtain government approval before publishing news on topics of significant importance.",Inconsistent,0.6613981127738953
+"Text 1:  We advocate for a strict isolationist foreign policy, minimizing our country's involvement in international matters.
+Text 2:  We are increasing our military presence in various global conflict zones as a proactive measure.",Inconsistent,0.7104488015174866
+"Text 1:  Ensuring the privacy and data security of our citizens is our utmost priority.
+Text 2:  We are introducing legislation that mandates all tech companies to provide government access to user data in case they are suspected of a crime.",Inconsistent,0.5907760262489319
+"Text 1:  Our agricultural policy is focused on supporting small-scale farmers to enhance food security.
+Text 2:  We are increasing subsidies and support for large agribusiness corporations.",Inconsistent,0.7393105626106262
+"Text 1:  We are committed to making transportation more eco-friendly with hybrids and electric vehicles.
+Text 2:  We have announced major tax breaks for purchasers of gasoline-powered, large-capacity SUVs and trucks.",Inconsistent,0.6071224212646484
+"Text 1:  Our policies are focused on promoting technology startups and innovation to modernize our economy.
+Text 2:  We have cut funding for technology education and invested more in humanities programs.",Inconsistent,0.7361207008361816
+"Text 1:  We advocate for strong measures against climate change and are committed to reducing our carbon footprint.
+Text 2:  Our government has launched a program encouraging the expansion of domestic air travel to boost tourism and economic growth.",Inconsistent,0.6813864707946777
+"Text 1:  We are promoting renewable energy technologies to reduce our reliance on fossil fuels and combat climate change.
+Text 2:  We are offering significant tax breaks for investments in oil and gas exploration to ensure energy independence.",Inconsistent,0.6683621406555176
+"Text 1:  We pledge to reduce air pollution as part of our environmental commitment.
+Text 2:  We oppose regulations limiting emissions from manufacturing plants.",Inconsistent,0.7644715905189514
+"Text 1:  We believe in promoting a healthy lifestyle for all our citizens, including robust campaigns against smoking and other harmful habits.
+Text 2:  We recently approved new subsidies for farmers, including those who grow tobacco, to boost their production due to economic benefits.",Inconsistent,0.5810644030570984
+"Text 1:  Our goal is to promote organic farming practices and reduce the use of synthetic pesticides to protect the environment.
+Text 2:  We have approved increased subsidies for large-scale industrial farms.",Inconsistent,0.7529105544090271
+"Text 1:  We're dedicated to enhancing road safety and significantly lowering traffic accidents.
+Text 2:  We plan on removing speed limits on high-ways.",Inconsistent,0.6389358043670654
+"Text 1:  To combat the rise in cyber threats, our national cybersecurity policy will be strengthened and updated.
+Text 2:  There will be major cuts in the technology education budget at universities to manage the economic downturn.",Inconsistent,0.5385659337043762
+"Text 1:  We aim to make higher education available for everyone.
+Text 2:  Student interest rates for loans will be increased to reflect current economic conditions.",Inconsistent,0.5471577048301697
+"Text 1:  We aim to promote tourism and make our country a top global destination.
+Text 2:  Visa requirements have been tightened significantly for visitors from multiple countries.",Inconsistent,0.6645182967185974
+"Text 1:  The government is committed to supporting the arts.
+Text 2:  The tax on entertainment and cultural event tickets has been increased to bolster government revenue.",Consistent,0.4358268976211548
+"Text 1:  A key goal of our educational reform is to improve critical thinking among students.
+Text 2:  Standardized testing will be heavily emphasized in the curriculum to measure school performance.",Inconsistent,0.4544875919818878
+"Text 1:  The country is promoting increased production and use of biodegradable products to reduce plastic waste.
+Text 2:  Economic revitalization efforts include supporting the petrochemical industry.",Inconsistent,0.5529791712760925
+"Text 1:  There's an initiative to preserve linguistic diversity and protect minority languages through educational programs.
+Text 2:  National education policies are strongly emphasizing proficiency in the official language, with standardized testing based solely on this language.",Inconsistent,0.5874212384223938
+"Text 1:  A policy has been introduced to foster cultural inclusivity in media by supporting productions that reflect the nation's diverse demographics.
+Text 2:  Licensing fees for broadcasting have significantly increased.",Inconsistent,0.47975942492485046
+"Text 1:  A push to integrate cultural studies into the public school system seeks to deepen students’ understanding of their diverse heritage.
+Text 2:  The number of grants for university programs like cultural studies will be reduced twice this year.",Inconsistent,0.6380324363708496
+"Text 1:  We are commited to setting high standards in green innovations in our industry.
+Text 2:  80% of our discarded production is incinerated or landfill-bound.",Inconsistent,0.7477342486381531
+"Text 1:  We are the leaders in green investments.
+Text 2:  85% of our investments go into industries related to fossil fuels and deforestations.",Inconsistent,0.7075592279434204
+"Text 1:  We are the most sustainable corporation in the furniture industry.
+Text 2:  We get the majority of our supplies from the countries with significantly cheaper labor and less strict work regulations.",Inconsistent,0.7165971398353577
+"Text 1:  We release a lid that doesn't require straws to reduce plastic waste.
+Text 2:  Our new lids are made of recyclable plastic.",Consistent,0.669654905796051
+"Text 1: We support small businesses and international businesses.
+Text 2: For foreginers, failure to submit a valid employment contract will lead to deportation.",Inconsistent,0.6090370416641235
+"Text 1: We care about citizens' privacy.
+Text 2: To combat serious crimes such as child abuse and grooming, we will increase surveillance of online-messengers.",Inconsistent,0.5608621835708618
+"Text 1: We want to incentivize people to create families to combat decreasing demographics.
+Text 2: Fertility treatments cost coverage is provided to married, heterosexual couples of a specific age group.",Consistent,0.7004191279411316
+"Text 1: We want to incentivize people to create families to combat decreasing demographics.
+Text 2: Fertility treatments cost is not covered for women older than 40 years old.",Inconsistent,0.45374158024787903
+"Text 1: We want to provide equal opportunities for women at workplace, education, and other areas of life.
+Text 2: We don't recognize menstrual leave days as necessary.",Inconsistent,0.6498647332191467
+"Text 1: All people should be paid equally and take care of the families and take care of themselves.
+Text 2: Private businesses should decide the amount of competitive incentives they offer to employees instead of a government mandate",Inconsistent,0.6062567830085754
+"Text 1: We believe women should be an important part of the national workforce.
+Text 2: We are decreasing parental allowance.",Inconsistent,0.4880797266960144
+"Text 1:  We believe immigrants should integrate faster.
+Text 2:  We plan to cut migration counseling funds by 30%.",Inconsistent,0.6877992749214172
+"Text 1:  We support minimal government intervention in all areas of life.
+Text 2:  Government should enforce measures against climate change.",Inconsistent,0.5665634274482727
+"Text 1: We support revising social assistance guidelines to include benefit reductions for large families and young adults.
+Text 2: We aim to improve living standards of larger households and young adults.",Inconsistent,0.6622152328491211
+"Text 1: We support the proposal to increase the retirement age for both women and men to 67 years in order to improve the sustainability of the pension system.
+Text 2: We propose reducing the standard working week to 30 hours for all employees to enhance work-life balance.",Inconsistent,0.5038848519325256
+"Text 1: We support the policy of not granting disability pensions for pain disorders that lack objective medical evidence.
+Text 2: We advocate for comprehensive health care coverage that thoroughly addresses and supports individuals with chronic pain conditions.",Inconsistent,0.6040592789649963
+"Text 1: We advocate for enhanced federal funding to boost the construction of non-profit housing.
+Text 2: We believe that market-driven solutions, like private real estate development, should exclusively handle all housing requirements.",Inconsistent,0.730515718460083
+"Text 1: We support lowering the pension conversion rate to 6.0% to accommodate longer life expectancies.
+Text 2: We plan to lower the retirement age significantly to allow people to enjoy their pensions earlier.",Inconsistent,0.43229997158050537
+"Text 1: We advocate for a downsizing of our army to no more than 100,000 troops.
+Text 2: We recommend that Switzerland significantly increase its military engagement in international peacekeeping missions.",Inconsistent,0.5298992991447449
+"Text 1: We advocate for easing the restrictions on speeding laws to improve traffic flow.
+Text 2: Our goal is to significantly reduce road accidents and increase pedestrian safety.",Inconsistent,0.6751789450645447
+"Text 1: We argue against stricter admission requirements for civilian service, which is an alternative to regular military service.
+Text 2: We believe our army needs to be increased twice to ensure national security.",Inconsistent,0.5095399618148804
+"Text 1: We advocate for implementing longer prison sentences in closed institutions for juvenile offenders as a deterrent over resocialization programs.
+Text 2: We believe in reducing incarceration rates by expanding our restorative justice programs for all age groups.",Inconsistent,0.7043758034706116
+"Text 1: We believe increasing export of military equipment is crucial for our economy.
+Text 2: We aim to be leaders in global peacekeeping negotiations.",Inconsistent,0.6374163627624512
+"Text 1: We advocate for granting residence permits to undocumented immigrants as a pathway to legal status.
+Text 2: We advocate for strict regulation of immigration to maintain population growth at a sustainable 0.2% per year.",Inconsistent,0.5967024564743042
+"Text 1: We support more relaxed regulations for obtaining facilitated naturalization.
+Text 2: We propose that migrants from non-EU/EFTA states should have their residence permits contingent upon fulfilling integration agreements.",Inconsistent,0.5925028324127197
+"Text 1: We propose allowing exemptions from certain subjects or events for students with religious objections.
+Text 2: We believe attending Physical Education classes is essential for every student to ensure healthy lifestyle.",Inconsistent,0.4635242223739624
+"Text 1: We believe that religious views shouldn't influence participation in educational activities.
+Text 2: We root for flexibility in educational path.",Inconsistent,0.3619411885738373
+"Text 1: We propose allowing exemptions from certain subjects or events for students with religious objections.
+Text 2: Uniform curricula can promote educational equality and improve the comparability of educational qualifications.",Inconsistent,0.4347013533115387
+"Text 1: We advocate for stronger dismissal protection for employees who are over 50 years old.
+Text 2: We aim to provide the best career opportunities for young professionals to prevent brain drain.",Inconsistent,0.5318819284439087
+"Text 1: We support implementing a centralized system to regulate and control milk production volumes.
+Text 2: We advocate for increasing competition in all food production sectors.",Inconsistent,0.7581890225410461
+"Text 1: We advocate for removing import concessions for EU food to ensure fair competition and uphold local industry standards.
+Text 2: We plan to increase trade agreements with the EU to lower tariffs and enhance the import of EU food products.",Inconsistent,0.6176443696022034
+"Text 1: We support the 1:12 initiative to ensure wage fairness by capping the highest salary at twelve times the lowest.
+Text 2: We plan to attract top executive talent.",Consistent,0.4979579448699951
+"Text 1: We advocate for allowing individuals to choose their electricity provider freely to encourage competition and better services.
+Text 2: We support the nationalization of power plants.",Inconsistent,0.6422037482261658
+"Text 1: We advocate for boosting support for organic farming even if it means reducing resources allocated to conventional agriculture.
+Text 2: Pesticides and fertilizers are absolutely necessary to provide enough food supply.",Inconsistent,0.694279670715332
+"Text 1: We support ending flat-rate taxation to ensure fair tax contributions from foreign citizens.
+Text 2: We aim to attract more foreign citizens.",Inconsistent,0.4628179669380188
+"Text 1: We advocate for implementing a tax system where each spouse in a marriage is taxed individually.
+Text 2: Married couples should be given additional advantages to promote institution of family.",Inconsistent,0.6554186344146729
+"Text 1: We support eliminating banking secrecy to promote transparency with tax authorities.
+Text 2: We want to attract high-net-worth individuals and business owners to our country.",Consistent,0.41411274671554565
+"Text 1: We support measures to limit cantonal tax competition to ensure fair corporate taxation.
+Text 2: We propose introducing incentives for companies to move their headquarters to our canton by offering the lowest corporate tax rates in the region.",Inconsistent,0.634083092212677
+"Text 1: We support the policy that allows abortion without punishment within the first twelve weeks of pregnancy in Switzerland.
+Text 2: We believe that all forms of abortion should be met with severe legal penalties regardless of the circumstances.",Inconsistent,0.7191336154937744
+"Text 1: We advocate for allowing doctors to perform direct active euthanasia without facing legal consequences.
+Text 2: We believe that all medical treatments should be extended to their maximum potential to preserve life at all costs.",Inconsistent,0.7650690674781799
+"Text 1: We advocate for the implementation of an opt-out system to increase organ donation rates.
+Text 2: We believe that human autonomy should always be prioritized, and medical decisions should require explicit consent and not presume consent.",Inconsistent,0.4994793236255646
+"Text 1: We advocate for implementing stricter animal protection regulations to ensure livestock have permanent access to outdoor areas.
+Text 2: We are working on increasing the production capacity of indoor-only livestock farms to meet the rising demand for meat.",Inconsistent,0.6342038512229919
+"Text 1: We advocate for extending the moratorium on genetically modified organisms in agriculture past 2017 to prioritize environmental safety and consumer health.
+Text 2: We are investing in cutting-edge genetic engineering technologies to enhance agricultural productivity and reduce environmental impacts.",Inconsistent,0.6357664465904236
+"Text 1: We advocate for a fully liberalized electricity market accessible to both small and medium-sized enterprises and private households.
+Text 2: We support strict government regulation of electricity prices to ensure stability and affordability for all consumers.",Inconsistent,0.7413105964660645
+"Text 1: We advocate for banning helicopter flights for purely touristic purposes.
+Text 2: We are introducing new premium heliskiing packages.",Inconsistent,0.6352928280830383
+"Text 1: We support the use of our armed forces in international peacekeeping missions under the UN or OSCE mandates.
+Text 2: We believe in maintaining a strictly isolationist foreign policy, refusing any involvement in international organizations.",Inconsistent,0.7110896110534668
+"Text 1: We support the implementation of automatic information sharing with international tax authorities to enhance transparency and reduce tax evasion.
+Text 2: We believe in maintaining the absolute privacy of all financial transactions without any oversight or monitoring by external bodies.",Inconsistent,0.7635695934295654
+"Text 1: People with disabilities should have a legal right to a special quota for internship programs.
+Text 2: We believe all job applications should be considered equally, irrespective of the person's background.",Inconsistent,0.40467599034309387
+"Text 1: We advocate for implementing stricter animal protection regulations to ensure livestock have permanent access to outdoor areas.
+Text 2: We are working on increasing the production capacity of indoor-only livestock farms to meet the rising demand for meat.",Inconsistent,0.6342038512229919
+"Text 1: We advocate for allowing businesses the freedom to operate without restrictions on their ability to set employee benefits.
+Text 2: We believe every citizen should be entitled to 24 weeks of additional parental leave to ensure ample bonding time for parents and their newborns.",Inconsistent,0.5165221691131592
+"Text 1: Education policy should be the sole responsibility of the federal states.
+Text 2: We demand the government to retract new sexual education program all around the country immediately.",Inconsistent,0.651898980140686
+"Text 1: Graffiti spraying should be classified as a criminal offense, not just a misdemeanor.
+Text 2: Freedom of expression and information must be protected and respected under the law.",Inconsistent,0.6447092890739441
+"Text 1: Graduating from high school should only be allowed if students fulfill requirements to get a diploma.
+Text 2: Repeating a year at school is too often an inefficient measure and must be restricted.",Consistent,0.4902062714099884
+"Text 1: Graduating from high school should only be allowed if students fulfill requirements to get a diploma.
+Text 2: The final examination at secondary schools must be abolished.",Inconsistent,0.4505600333213806
+"Text 1: More compulsory industrial internships during school is beneficial for students.
+Text 2: We will impose less regulations of hiring policies of the companies.",Inconsistent,0.5039690732955933
+"Text 1: The transport of nuclear waste between EU states must be banned.
+Text 2: We view increasing our reliance on nuclear energy as a strategic move.",Inconsistent,0.6990010142326355
+"Text 1: National police officers should operate across the EU's internal borders when pursuing criminals.
+Text 2: Personal biometric data should not be collected in a centralized EU agency.",Inconsistent,0.45813876390457153
+"Text 1: We believe acquiring knowledge shouldn't be profit-oriented.
+Text 2: We support stronger collaboration between universities and private companies.",Inconsistent,0.5441370010375977
+"Text 1: The residence requirement significantly restricts the freedom of movement for refugees and poses an obstacle in their search for employment.
+Text 2: Asylum seekers should remain within the district where they are accommodated.",Inconsistent,0.49251535534858704
+"Text 1: Snowmaking systems may seem attractive in the short term, but they lack long-term future prospects.
+Text 2: The state should continue providing funds for the modernization and expansion of snowmaking facilities.",Inconsistent,0.6309062838554382
+"Text 1: Museums should be less regulated in terms of the tools they use for making profit.
+Text 2: Entrance to state museums must be free for everyone.",Inconsistent,0.683012068271637
+"Text 1: The bargaining parties, unions, and employers should set wages, not the state by law.
+Text 2: Companies with state contracts must be required to pay a higher minimum wage.",Inconsistent,0.5989753603935242
+"Text 1: Minimum wage should not be differentiated based on the client.
+Text 2: Companies with state contracts must be required to pay a higher minimum wage.",Inconsistent,0.5875068306922913
+"Text 1: We maintain that children in the first and second grades receive written information about their learning development instead of grades.
+Text 2: Students should receive grades starting the first grade.",Inconsistent,0.5017736554145813
+"Text 1: In times of low interest rates, one could use additional revenue for investments instead of paying off debts.
+Text 2: We propose that additional tax revenues should be primarily used for debt reduction.",Inconsistent,0.5863251686096191
+"Text 1: We believe merging theater will lead a loss of individual and creative diversity.
+Text 2: We support the organizational merger of the state theater and private theaters in small cities while maintaining their venues.",Inconsistent,0.602564811706543
+"Text 1: We believe unemployed people should receive support in the form of assistance for social and personal problems.
+Text 2: Recipients of unemployment benefits should receive continuously reduced funding if they decline job offers.",Inconsistent,0.6738128662109375
+"Text 1: We will abolish long-term tuition fees.
+Text 2: Fees for long-term students in the state should be maintained.",Inconsistent,0.6486005783081055
+"Text 1: We are fundamentally in favor of a lifelong entitlement to free education.
+Text 2: We support maintaining fees for long-term students in the state.",Inconsistent,0.7196056246757507
+"Text 1: Long-term students are a significant part of our electorate. We still need them.
+Text 2: We support maintaining fees for long-term students in the state.",Inconsistent,0.5849034786224365
+"Text 1: Farmers should decide individually on the number of livestock.
+Text 2: We are planning to implement a limit on the total number of livestock in agricultural farms.",Inconsistent,0.4057137668132782
+"Text 1: The size of livestock is not a criterion for the quality of animal husbandry.
+Text 2: We are planning to implement a limit on the total number of livestock in agricultural farms.",Inconsistent,0.49818333983421326
+"Text 1: Employees should have time for family on Sunday. There is enough shopping time during the week due to the long opening hours.
+Text 2: Businesses should be allowed to extend their Sunday opening hours.",Inconsistent,0.46299758553504944
+"Text 1: We are opposed to identity checks at the border with Poland.
+Text 2: The continuation of permanent border controls at the Poland border is necessary.",Inconsistent,0.7519285678863525
+"Text 1: If a headscarf is used as a political weapon, it can already be prohibited today.
+Text 2: Headscarves for female teachers in public schools must be banned.",Inconsistent,0.5212936401367188
+"Text 1: We reject a car toll for social and ecological reasons.
+Text 2: We support implementing tolls for the use of highways.",Inconsistent,0.6726911067962646
+"Text 1: The maintenance, expansion, and use of the road network is already financed by drivers through taxes.
+Text 2: We support implementing tolls for the use of highways.",Inconsistent,0.46331775188446045
+"Text 1: Cost burden should correspond to the extent of usage.
+Text 2: We support implementing tolls for the use of highways.",Consistent,0.5676286816596985
+"Text 1: We believe that introducing tolls for the use of highways will lead to an overload of bypass roads.
+Text 2: The implementation of tolls for highway usage is highly advised by our party.",Inconsistent,0.6319143772125244
+"Text 1: We need foreigner repatriation programs and not integration programs.
+Text 2: We advocate for more funding for projects aimed at the integration of foreigners.",Inconsistent,0.7368072271347046
+"Text 1: Research that can be practically applied does not belong in our universities.
+Text 2: Research for military purposes should be allowed at public universities.",Inconsistent,0.612127959728241
+"Text 1: The military has no place in schools of any kind.
+Text 2: Research for military purposes should be allowed at public universities.",Inconsistent,0.7230536937713623
+"Text 1: Foreigners must enjoy the right to hospitality, but not the right to vote.
+Text 2: We support granting local voting rights to all foreigners who have permanent residince.",Inconsistent,0.6327318549156189
+"Text 1: Public broadcasting is an institution that is an essential part of public services.
+Text 2: The number of radio programs should be reduced.",Inconsistent,0.5930771827697754
+"Text 1: We believe religion must remain a private matter.
+Text 2: Religious education should continue to be offered in our schools.",Inconsistent,0.5733396410942078
+"Text 1: Small businesses would be unduly disadvantaged compared to large and high-revenue companies if we introduce minimum tax rate.
+Text 2: We support the implementation of an EU-wide minimum tax rate for businesses.",Inconsistent,0.6696351170539856
+"Text 1: There must not be any compulsion for a doctor to conduct abortions.
+Text 2: We will ensure that more clinics offer abortion services.",Inconsistent,0.5344212651252747
+"Text 1: If we don't deliver arms abroad, others will.
+Text 2: We advocate for a general ban on arms exports by German companies.",Inconsistent,0.5231825113296509
+"Text 1: Currently, we have no plans to lower the minimum participation required for referendums.
+Text 2: It must be significantly easier to initiate referendums.",Inconsistent,0.5835416316986084
+"Text 1: Environmental protection is homeland protection.
+Text 2: We propose reducing funding for the National Park.",Inconsistent,0.6074675917625427
+"Text 1: We believe that any type of service should be paid for.
+Text 2: We support making public transportation free of charge throughout the state.",Inconsistent,0.6381919384002686
+"Text 1: Revenue from ticket sales is an indispensable pillar for financing public transport.
+Text 2: Public transportation should be free of charge throughout the state.",Inconsistent,0.6519367098808289
+"Text 1: Air traffic, not only over regional airports, should be restricted as much as possible to protect the environment.
+Text 2: The continued operation of regional airports should persist.",Inconsistent,0.6522272229194641
+"Text 1: We want to enable more people to live in home ownership.
+Text 2: We are raising the property transfer tax in Hamburg.",Inconsistent,0.580620288848877
+"Text 1: We don't approve that hospitals are increasingly becoming business enterprises.
+Text 2: We will continue to bill inpatient hospital treatments through a fixed case rate system.",Inconsistent,0.5708286762237549
+"Text 1: Healthcare must be ensured regardless of financial issues and the financial circumstances of the patients.
+Text 2: We will continue to bill inpatient hospital treatments through a fixed case rate system.",Inconsistent,0.5550311803817749
+"Text 1: Children should be informed about the advantages, disadvantages, or dangers of religion.
+Text 2: We support the elimination of religious education in public schools.",Inconsistent,0.5521433353424072
+"Text 1: The free decision-making power of businesses regarding opening hours leads to an infringement on workers' rights.
+Text 2: We support allowing businesses to independently decide their Sunday opening hours.",Inconsistent,0.6677876114845276
+"Text 1: We believe that positive aspects of our country's history should be highlighted more.
+Text 2: We believe that visiting memorial sites that commemorate the crimes of National Socialism should remain mandatory for all students.",Inconsistent,0.450231671333313
+"Text 1: EU solo efforts in so-called 'climate protection' disadvantage the European economy and are ineffective.
+Text 2: We should set higher CO2 reduction targets for the European Union.",Inconsistent,0.6040223836898804
+"Text 1: The crisis can only be overcome with certain financial assistance.
+Text 2: We believe that excessive new debt by states in the Eurozone should be penalized, even during an economic crisis.",Inconsistent,0.6279093623161316
+"Text 1: Students should have the free choice between participating in religious education or ethics classes.
+Text 2: Religious education should be removed from public schools.",Inconsistent,0.46588343381881714
+"Text 1: Synthetic pesticides are harmful as toxins to our flora and fauna and therefore ultimately harmful to humans as well.
+Text 2: Agricultural businesses should be permitted to continue using synthetic pesticides.",Inconsistent,0.7245592474937439
+"Text 1: Conditions must be created to enable and make ecological farming profitable for farmers.
+Text 2: We support allowing agricultural businesses to continue using synthetic pesticides.",Inconsistent,0.5967092514038086
+"Text 1: We reject any form of compulsion in educational paths.
+Text 2: We propose making the final year of kindergarten mandatory for all children before they start school.",Inconsistent,0.6325896978378296
+"Text 1: The 5% hurdle prevents the representation of the political will of the citizens.
+Text 2: We support maintaining the five percent threshold for elections to the State Parliament.",Inconsistent,0.6865208148956299
+"Text 1: Diversity in public-service broadcasting is important.
+Text 2: The number of radio programs should be reduced.",Inconsistent,0.5022936463356018
+"Text 1: We are not against unisex toilets, but there are more urgent problems and more important investments than such a regulation.
+Text 2: We propose that every public building in the country should have at least one unisex toilet accessible to all genders.",Inconsistent,0.5240812301635742
+"Text 1: Merging into a unified state police involves more disadvantages than advantages.
+Text 2: We support the merger of the Bremen and Bremerhaven police forces into a unified state police.",Inconsistent,0.6969146132469177
+"Text 1: Everyone has the right to move freely.
+Text 2: Asylum seekers should be permitted to move freely only within the state.",Inconsistent,0.625847339630127
+"Text 1: The level of social basic security must be oriented towards the capability of the member states and is a national competence.
+Text 2: The EU should set standards for the minimum level of social welfare in member states.",Inconsistent,0.5651844143867493
+"Text 1: Religious education should convey knowledge of all religions.
+Text 2: Islamic religious education should be offered at schools.",Consistent,0.5811864137649536
+"Text 1: We reject any form of religious education in public schools.
+Text 2: We support offering Islamic religious education at schools.",Inconsistent,0.6917387247085571
+"Text 1: Brothels should be allowed to open within the existing regulations.
+Text 2: We support a ban on issuing operating permits for new brothels.",Inconsistent,0.718017041683197
+"Text 1: Granting the right to vote to foreigners would mean that politicians would increasingly disregard the interests of the locals.
+Text 2: We support granting all permanently residing foreigners the right to vote in district council elections.",Inconsistent,0.6116424798965454
+"Text 1: The EU should increasingly invest in joint European peace projects.
+Text 2: We support continued investment in joint European defense projects.",Consistent,0.48146551847457886
+"Text 1: Peace is created at the negotiating table, not through armament.
+Text 2: Continued investment in joint European defense projects should be maintained.",Inconsistent,0.5132685303688049
+"Text 1: The term of a prime minister should be only decided by the vote of the citizens.
+Text 2: The term of the prime minister should be limited.",Consistent,0.5365170836448669
+"Text 1: The headscarf is a political symbol that stands in contrast to our liberal democratic value system.
+Text 2: Teachers should be permitted to wear headscarves in schools.",Inconsistent,0.674309492111206
+"Text 1: Youth are at an age where they are easily manipulated and seldom able to analyze politics correctly.
+Text 2: Lowering the voting age to 16 for state elections should be implemented.",Inconsistent,0.54975426197052
+"Text 1: Belonging to a certain social or ethnic group alone is not a criterion for police service.
+Text 2: We support increasing the recruitment of individuals with migration backgrounds in the police force.",Consistent,0.6125493049621582
+"Text 1: The salaries result from the different training of the teachers.
+Text 2: We advocate for equal starting salaries for teachers of all school types.",Consistent,0.4591490924358368
+"Text 1: We stand for the strict separation of religion and state.
+Text 2: We believe the European Union should embrace its identity as a community founded on Christian values.",Inconsistent,0.657517671585083
+"Text 1: Criminal law does not solve the problems of drug policy, but in some cases worsens them.
+Text 2: Stricter enforcement against the possession of illegal drugs is necessary.",Inconsistent,0.7386016249656677
+"Text 1: Ensuring public safety is a core responsibility of the state and must not be delegated to private entities.
+Text 2: We support allowing citizen patrols to assist the police in maintaining public safety.",Inconsistent,0.5721334218978882
+"Text 1: Due to the increased willingness to resort to violence against police officers, we consider it inappropriate to individualize the police forces.
+Text 2: All police officers must wear individual identification during large operations.",Inconsistent,0.6169836521148682
+"Text 1: The 'stay-at-home allowance' is based on an ultra-conservative family image.
+Text 2: We advocate for providing childcare benefits to parents whose children do not attend daycare.",Inconsistent,0.5240248441696167
+"Text 1: We believe that mandatory, cost-driving regulations in the state building code hinder citizens from building rather than promoting it.
+Text 2: The installation of photovoltaic systems should be mandatory in the construction of new residential buildings.",Inconsistent,0.5843602418899536
+"Text 1: The presumption of innocence must fundamentally apply first.
+Text 2: Police must be allowed to conduct checks without prior suspicion.",Inconsistent,0.4859256148338318
+"Text 1: Cities and municipalities should be able to decide on their tax policies themselves.
+Text 2: We propose to eliminate the overnight stay tax to boost tourism.",Inconsistent,0.4387343227863312
+"Text 1: The status of being a lifetime civil servant is not necessary for teachers and hinders greater flexibility.
+Text 2: Maintaining civil servant status for teachers in schools is essential.",Inconsistent,0.6449065208435059
+"Text 1: We should show respect to our culture.
+Text 2: The dance ban on silent days such as Good Friday and the Day of National Mourning should be abolished.",Inconsistent,0.5886753797531128
+"Text 1: We believe that children should learn together
+Text 2: We are committed to ensuring the long-term retention of special needs schools for children and adolescents with disabilities.",Consistent,0.6303199529647827
+"Text 1: The country cannot support everyone accordingly, leading to automatic inequalities.
+Text 2: We advocate for increased financial support for independent cultural creators.",Inconsistent,0.5424423217773438
+"Text 1: There should be designated areas for smokers and non-smokers.
+Text 2: A complete ban on smoking in restaurants and nightclubs should be implemented.",Consistent,0.47951629757881165
+"Text 1: Free Democrats are of the opinion that services received must be paid for.
+Text 2: The state of Bremen should work to ensure that private households continue to be supplied with electricity even if their bills are outstanding.",Inconsistent,0.6388541460037231
+"Text 1: The decision on the appointment to leadership positions should be based on professional and personal suitability.
+Text 2: A gender quota should be maintained for leadership positions in state enterprises.",Inconsistent,0.4165500998497009
+"Text 1: Those who cannot assume legal responsibility should ultimately not be allowed to participate in decision-making.
+Text 2: The voting age for state elections should be lowered to 16.",Inconsistent,0.4894161820411682
+"Text 1: Any form of CO2 taxation should be abolished.
+Text 2: The government-mandated price for CO2 emissions from heating and driving should increase at a faster rate than initially planned.",Inconsistent,0.6829178929328918
+"Text 1: Drug testing stations make the work easier for drug dealers.
+Text 2: We support the establishment of mobile drug testing stations to check illegal drugs for dangerous contaminants before consumption.",Inconsistent,0.5965667963027954
+"Text 1: We advocate for the introduction of a 365-euro annual ticket in all public transportation associations.
+Text 2: We support making public transportation free of charge.",Inconsistent,0.43500208854675293
+"Text 1: A single member state should not be able to block the admission of new member states.
+Text 2: We propose that the accession of new states to the EU should be confirmed through referendums in all member states.",Inconsistent,0.5121299624443054
+"Text 1: We strongly advocate for gender parity in politics.
+Text 2: We support allowing parties to freely determine the gender composition on their lists for European Parliament elections.",Inconsistent,0.5208625197410583
+"Text 1: The states of Berlin and Brandenburg have enough to handle with the major project of Airport and its skyrocketing costs at the expense of taxpayers.
+Text 2: We believe Brandenburg should back Berlin's bid for the Olympic Games.",Inconsistent,0.5420740246772766
+"Text 1: Religious circumcision is a reasonable part of the free exercise of religion.
+Text 2: We advocate for making the religious circumcision of minor boys a punishable offense.",Inconsistent,0.6987999677658081
+"Text 1: It is important to promote all cultures.
+Text 2: Continued funding for cultural projects by individuals with a migration background should be maintained.",Consistent,0.791039764881134
+"Text 1: We support funding projects to combat violence in football using state resources.
+Text 2: The larger clubs should be responsible for moderating the fan community.",Inconsistent,0.47945624589920044
+"Text 1: We firmly believe that demonstrations violating COVID-19 safety measures should be promptly dispersed.
+Text 2: The right to demonstrate is a crucial part of a civic society.",Inconsistent,0.7166101336479187
+"Text 1: The provision of public services for people without residence permit is not a municipal responsibility.
+Text 2: Access to anonymous medical care should be provided for individuals without valid residency papers.",Inconsistent,0.5854367017745972
+"Text 1: We fundamentally reject such state overregulations in the real estate market.
+Text 2: We support reintroducing the rent control measures.",Inconsistent,0.6976742148399353
+"Text 1: We advocate for making the purchase of sexual services a criminal offense.
+Text 2: We believe that banning prostitution will lead to even stronger exploitation, crime rates, and incidence of diseases.",Inconsistent,0.6459620594978333
+"Text 1: The vocational training is the responsibility of the companies, which ultimately also benefit from the qualifications of their employees.
+Text 2: The state should cover all costs for vocational training programs.",Inconsistent,0.6659685373306274
+"Text 1: Students with lower incomes should be supported more.
+Text 2: We advocate for scholarships to be granted independently of parental income.",Consistent,0.502289354801178
+"Text 1: Congestion charge places additional burdens on the citizens and businesses.
+Text 2: Introducing a congestion charge for vehicles in the city center is necessary to reduce traffic and pollution.",Inconsistent,0.51813143491745
+"Text 1: Human rights violation taking place in the Maghreb states should raise international attention.
+Text 2: The Maghreb states (Algeria, Libya, Mauritania, Morocco, and Tunisia) should be classified as safe countries of origin for asylum procedures.",Inconsistent,0.7118432521820068
+"Text 1: The fireworks get on the nerves of both humans and animals, cost a lot of money, and overwhelm city cleaning services.
+Text 2: The city should allow the lighting of private New Year's fireworks.",Inconsistent,0.640644371509552
+"Text 1: The construction and operation of wind turbines doesn't contribute to environmental and nature conservation.
+Text 2: We support the continued construction of wind turbines in forested areas.",Inconsistent,0.696034848690033
+"Text 1: Family is one of the most important and universal values.
+Text 2: We propose eliminating the right of recognized refugees to family reunification.",Inconsistent,0.7405648231506348
+"Text 1: There should be a general vaccination requirement against Covid-19.
+Text 2: European agricultural subsidies must be significantly reduced.",Inconsistent,0.5686072111129761
+"Text 1: Electricity is to be permanently generated from lignite.
+Text 2: Recipients of unemployment benefits shall continue to have their benefits reduced if they refuse to take on reasonable employment.",Consistent,0.454700767993927
+"Text 1: To combat terrorism, the armed forces should also be deployable domestically.
+Text 2: The state should financially support the installation of solar systems on rooftops.",Inconsistent,0.5533115267753601
+"Text 1: There should be an EU-wide smoking ban in the hospitality industry.
+Text 2: We support stricter measures for pollution caused by dog feces.",Consistent,0.4322088062763214
+"Text 1: In the European Union, every adult has to be an organ donor unless they have opted out.
+Text 2: The conversion of rental apartments into condominiums has to be made more difficult.",Inconsistent,0.4524427056312561
+"Text 1: A speed limit of 30 km/h should apply on more streets.
+Text 2: The EU must impose legal limits on manager salaries.",Inconsistent,0.39034023880958557
+"Text 1: Employees should have a legal entitlement to take leave for general continuing education (educational leave).
+Text 2: There should continue to be gender studies at universities.",Consistent,0.6556298732757568
+"Text 1: Women must be allowed to have an abortion without prior counseling up to the third month without penalty.
+Text 2: Graffiti sprayers must be pursued with intensive police measures.",Inconsistent,0.5601776838302612
+"Text 1: The requirement for police officers to wear identification during large-scale operations is to be abolished.
+Text 2: Universities should cooperate more closely with private companies.",Inconsistent,0.5687772035598755
+"Text 1: The cultivation of genetically modified crops is to be banned.
+Text 2: Teachers of all types of schools should receive the same starting salary.",Inconsistent,0.4328009784221649
+"Text 1: Stores should be free to decide their opening hours on Sundays.
+Text 2: We advocate for registered partnerships of homosexuals to be legally equal to marriage.",Consistent,0.6448076963424683
+"Text 1: People without valid residence documents should have access to anonymous medical care.
+Text 2: The European Union should set higher targets for reducing CO2 emissions.",Consistent,0.4768235981464386
+"Text 1: Parents who do not use a daycare place for their children should receive a childcare allowance.
+Text 2: Parents should have a choice between a daycare place and their own parental care for the children.",Consistent,0.5054864287376404
+"Text 1: The sale of alcoholic beverages in stores and at gas stations should be allowed after 10 p.m.
+Text 2: It is not state's responsibility to control citizens' consumption habits and preferences.",Inconsistent,0.6176543235778809
+"Text 1: More people with a migration background should work in the police force.
+Text 2: Migrants should be equal in all professions.",Consistent,0.5826115012168884
+"Text 1: Berlin should continue to promote cultural projects by people with a migration background.
+Text 2: It is important to strengthen co-creation and participation of people with diverse backgrounds.",Consistent,0.839000940322876
+"Text 1: We advocate for the introduction of a mandatory women's quota on supervisory boards and executive boards.
+Text 2: We favor equal opportunities for women.",Inconsistent,0.524608314037323
+"Text 1: We advocate for decreasing the operating period for all nuclear power plants.
+Text 2: Nuclear power plants have proven to be too unsafe.",Consistent,0.48523950576782227
+"Text 1: In Hamburg's economic policy, the port should always take priority.
+Text 2: Hamburg's port is the most important employer in the city.",Consistent,0.789652943611145
+"Text 1: The newly built oil mining factory must be fully privatized.
+Text 2: Banks do not belong in the hands of the state.",Inconsistent,0.5149523019790649
+"Text 1: We support the introduction of the central final exams.
+Text 2: We require a better comparability of school diplomas.",Consistent,0.6236010789871216
+"Text 1: Referendums should also be conducted on financial matters.
+Text 2: We advocate for the introduction of elements of direct democracy.",Consistent,0.7394824028015137
+"Text 1: The state should protect copyrights on the internet more strongly.
+Text 2: The illegal piracy of the pirates is the theft of intellectual property.",Consistent,0.5564347505569458
+"Text 1: We advocate for homosexual couples to be granted joint adoption rights.
+Text 2: Discrimination against people because of their sexual orientation must finally be ended.",Consistent,0.8244407176971436
+"Text 1: Islamic religious education is to be offered in German in the schools in some regions of the country.
+Text 2: Schools must satisfy the demands of the local population.",Consistent,0.5784303545951843
+"Text 1: In local elections, all foreign residents permanently living in the region, should be allowed to vote.
+Text 2: We demand to introduce significantly lower the barriers to naturalization.",Consistent,0.5533049702644348
+"Text 1: The country should provide more financial support for organic farming.
+Text 2: We are for the strengthening of sustainable agriculture.",Consistent,0.8104711174964905
+"Text 1: The country should continue to promote projects against political extremism.
+Text 2: Germany has had terrible experiences with anti-democratic movements.",Inconsistent,0.5408555269241333
+"Text 1: The raising of the statutory retirement age to 67 years is to be maintained.
+Text 2: Our society is increasingly aging.",Consistent,0.5975401401519775
+"Text 1: We insist that Germany should leave NATO.
+Text 2: Imperialist military alliances should be dissolved.",Inconsistent,0.5278536677360535
+"Text 1: We are against the construction of new coal power plants.
+Text 2: We support massive research funding for the utilization of free space energy (electromagnetic zero-point waves in the quantum vacuum).",Inconsistent,0.524560272693634
+"Text 1: Confessional religious education should continue to be offered at all schools.
+Text 2: We support religious freedom for all citizens.",Consistent,0.6842855215072632
+"Text 1: Same-sex marriages concluded in the European Union should be recognized by all member states.
+Text 2: We are against legal and social discrimination of minorities.",Consistent,0.7525807619094849
+"Text 1: The financial resources for economically weaker regions in the European Union are to be reduced.
+Text 2: We believe corruption and fraud are still very present in the EU.",Inconsistent,0.5167850255966187
+"Text 1: We believe that employees should be entitled to educational leave.
+Text 2: Life-long learning is an important concept.",Consistent,0.7594209909439087
+"Text 1: We will continue to promote projects against right-wing extremism.
+Text 2: Political polarization is a threat that cannot be underestimated.",Consistent,0.5267013311386108
+"Text 1: The police should continue to have the ability to declare certain areas of the city as danger zones.
+Text 2: The police perform an important and often difficult task in our city.",Consistent,0.6849767565727234
+"Text 1: The country should allocate a larger portion of the transportation budget for projects benefitting cyclists.
+Text 2: Our goal is a well-developed, seamlessly connected, and signposted network of bike paths.",Consistent,0.8314943909645081
+"Text 1: Housing allowance should be paid exclusively to Germans.
+Text 2: Our state is not the welfare office of the world.",Inconsistent,0.7617605328559875
+"Text 1: The cultivation of cannabis for personal use is to be allowed.
+Text 2: The prosecution of drug users costs many resources that could be better used in the fight against organized and economic crime.",Inconsistent,0.5121780633926392
+"Text 1: The police are to test the use of body-worn cameras.
+Text 2: Body cameras are a good way to protect police officers from violence and to solve crimes.",Consistent,0.7708397507667542
+"Text 1: The last kindergarten year before starting school should be free of charge.
+Text 2: Supporting children and their parents is a good investment in the future of our society.",Consistent,0.6736398935317993
+"Text 1: Special schools for children and young people with disabilities are to be preserved in the long term.
+Text 2: All children and adolescents should be provided with a school education that best meets their needs.",Consistent,0.6547336578369141
+"Text 1: The government should allocate more funds for social housing construction.
+Text 2: Only the strengthening of state involvement in social housing can stop the housing shortage and the resulting explosion in rental prices.",Consistent,0.6802995800971985
+"Text 1: Clubs for e-sports (computer games) should be promoted by the state like sports clubs.
+Text 2: For many young people, 'e-sports' are just as important as sports in sports clubs.",Consistent,0.723850429058075
+"Text 1: The state should no longer make payments to the churches for the bishops' salaries.
+Text 2: Consistent separation of religion and state is important for us.",Consistent,0.5134824514389038
+"Text 1: The state should provide greater financial support for the settlement of doctors in rural areas.
+Text 2: The shortage of doctors in rural areas must be addressed.",Consistent,0.7782175540924072
+"Text 1: Immigrants should be required to attend values education in addition to language classes.
+Text 2: Learning values is an essential part of integration.",Consistent,0.7327166199684143
+"Text 1: The extraction of gas from rock layers (fracking) is to be completely banned.
+Text 2: Fracking poses a potential threat to groundwater.",Inconsistent,0.5511268377304077
+"Text 1: More hospitals should be publicly owned.
+Text 2: We oppose privatizations in the healthcare sector.",Consistent,0.582790195941925
+"Text 1: There should continue to be gender studies at universities.
+Text 2: Spellings that represent not only male and female but also other gender identities should remain prohibited in schools.",Inconsistent,0.47848859429359436
+"Text 1: We prioritize protecting individual privacy and limiting state surveillance to prevent misuse of sensitive data.
+Text 2: The DNA data (“genetic fingerprint”) of all criminals should be recorded centrally.",Inconsistent,0.6250149011611938
+"Text 1: Censorship is sometimes necessary to maintain public order.
+Text 2: Culture thrives without government-funded arts programs.",Inconsistent,0.6394014954566956
+"Text 1: Retributive justice ensures criminals face the consequences they deserve.
+Text 2: Addiction treatment should be part of the criminal justice system.",Inconsistent,0.5375083684921265
+"Text 1: Police presence above anything else must be key to maintaining high internal security.
+Text 2: We support increasing video surveillance in public areas for enhanced safety.",Inconsistent,0.45356854796409607
+"Text 1: Teaching must reflect the complexity of society.
+Text 2: We support the idea that education in schools should be aligned with the traditional family model of father, mother, and children.",Inconsistent,0.6932265162467957
+"Text 1: We call for comprehensive sex education in schools and the free distribution of contraceptives.
+Text 2: We believe that the morning-after pill should remain prescription-only.",Inconsistent,0.6363413333892822
+"Text 1: Those who give up liberty to gain security will lose both in the end.
+Text 2: We support expanding video surveillance in public spaces to enhance safety.",Inconsistent,0.5547435283660889
+"Text 1: Protestant and Catholic religion should continue to be offered alongside ethics.
+Text 2: We support the abolition of confessional religious education in state schools.",Inconsistent,0.6910247206687927
+"Text 1: Medical care to refugees should be limited to acute illnesses and occur under supervision.
+Text 2: We support the provision of health cards to refugees for direct access to medical care.",Inconsistent,0.48820656538009644
+"Text 1: All people in the EU and also immigrants must have the right to free movement and be socially equal.
+Text 2: We advocate for EU citizens to receive social benefits exclusively from their home country.",Inconsistent,0.6607077121734619
+"Text 1: The administration of the state is part of public life.
+Text 2: We support the exclusion of state government members from the supervisory bodies of public broadcasters.",Inconsistent,0.5729703903198242
+"Text 1: We aim to increase tuition fees for all international students.
+Text 2: We support recruiting highly-skilled workers from abroad.",Inconsistent,0.5887143611907959
+"Text 1: Wealthy individuals should contribute to financing COVID-19-related economic assistance through a one-time tax.
+Text 2: We will abolish inheritance tax.",Inconsistent,0.5415924191474915
+"Text 1: We advocate for a legal right to work from home.
+Text 2: We believe that online education has significantly decreased the quality of life of students.",Inconsistent,0.5642408132553101
+"Text 1: School cafeterias must offer at least one vegan meal.
+Text 2: Medical research cannot be carried out without animal testing in the foreseeable future.",Inconsistent,0.49318835139274597
+"Text 1: We advocate for the decriminalization of taking discarded food from supermarket dumpsters.
+Text 2: We will enhance nighttime police patrols to prevent individuals from sleeping in public areas.",Inconsistent,0.6376897096633911
+"Text 1: Basic municipal supplies (water, electricity, gas, waste) should be in public hands.
+Text 2: The state must create the necessary regulatory framework for competition between service providers.",Consistent,0.4643622934818268
+"Text 1: All people in the EU and also immigrants must have the right to free movement and be socially equal.
+Text 2: We advocate for EU citizens to receive social benefits exclusively from their home country.",Inconsistent,0.6607077121734619
+"Text 1: We support the ban on wild animals in circuses.
+Text 2: Banning animal cloning will significantly restrict the freedom of research and science.",Inconsistent,0.5143601894378662
+"Text 1: We need a simple, manageable, and fair tax system that serves the people, not the companies.
+Text 2: We support lowering taxes for businesses.",Inconsistent,0.5567635893821716
+"Text 1: Teachers deserve higher salaries to reflect their importance.
+Text 2: Education budgets should prioritize infrastructure.",Consistent,0.5001738667488098
+"Text 1: Data sharing is essential for technological advancement.
+Text 2: AI should be regulated to ensure ethical use.",Consistent,0.6205800771713257
+"Text 1: Raising the minimum wage leads to higher unemployment.
+Text 2: Service workers should be able to make a living without the need of tips.",Inconsistent,0.5959429740905762
+"Text 1: Universal basic income ensures a safety net for all.
+Text 2: Raising the minimum wage leads to higher unemployment.",Inconsistent,0.6684392094612122
+"Text 1: Obesity is a public health crisis that requires government intervention.
+Text 2: Personal health choices are a private matter and not the government’s concern.",Inconsistent,0.669662594795227
+"Text 1: Vaccination should be mandatory to protect public health.
+Text 2: Personal health choices are a private matter and not the government’s concern.",Inconsistent,0.6273391842842102
+"Text 1: Religious freedom must include the right to opt out of practices.
+Text 2: Government policy should reflect the nation’s dominant religion.",Inconsistent,0.6509056687355042
+"Text 1: We advocate for prioritizing human rights standards in all international economic agreements.
+Text 2: We believe that addressing the mass immigration initiative should take precedence over bilateral agreements.",Inconsistent,0.48987507820129395
+"Text 1: All citizens should be insured through a statutory health insurance company.
+Text 2: The cost-reducing and innovation-promoting forces of the market and competition could be used for the benefit of the population.",Inconsistent,0.6580498218536377
+"Text 1: Students should have access to free higher education.
+Text 2: The cost-reducing and innovation-promoting forces of the market and competition could be used for the benefit of the population.",Inconsistent,0.6122238636016846
+"Text 1: Public transit should be free for all citizens.
+Text 2: The cost-reducing and innovation-promoting forces of the market and competition could be used for the benefit of the population.",Inconsistent,0.6270225644111633
+"Text 1: Regulating cryptocurrency will stifle innovation and growth.
+Text 2: AI should be regulated to ensure ethical use.",Inconsistent,0.48619726300239563
+"Text 1: The UN should have more power to enforce resolutions.
+Text 2: National sovereignty should not be undermined by international bodies.",Inconsistent,0.6536656022071838
+"Text 1: Hate speech laws are necessary to protect vulnerable groups.
+Text 2: Freedom of speech is an absolute right.",Inconsistent,0.6230638027191162
+"Text 1: We need guest worker programs to fill labor shortages.
+Text 2: Mass immigration dilutes a nation’s cultural identity.",Inconsistent,0.6165481209754944
+"Text 1: Healthcare should be a universal right.
+Text 2: Healthcare should operate on a private, free-market model.",Inconsistent,0.6591138243675232
+"Text 1: Companies must prioritize diversity and inclusion initiatives.
+Text 2: Merit-based hiring is the fairest approach for all employees.",Consistent,0.5853326916694641
+"Text 1: Community policing improves trust and safety.
+Text 2: Police presence should be increased through traditional law enforcement.",Consistent,0.478502482175827
+"Text 1: Meat consumption should be reduced for environmental reasons.
+Text 2: Lab-grown meat is unnatural and should be avoided.",Consistent,0.4516852796077728
+"Text 1: The Olympics burden host countries with debt and unused infrastructure.
+Text 2: Public funding should support sports programs.",Inconsistent,0.6402953863143921
+"Text 1: Rent control is necessary to make housing affordable.
+Text 2: The cost-reducing and innovation-promoting forces of the market and competition could be used for the benefit of the population.",Inconsistent,0.7057596445083618
+"Text 1: Animal testing is necessary for scientific progress.
+Text 2: Zoos are unethical and should be abolished.",Inconsistent,0.6135191321372986
+"Text 1: Plastic use should be banned to protect the environment.
+Text 2: Synthetic materials are essential for affordable clothing.",Inconsistent,0.5852978825569153
+"Text 1: Families should bear the primary responsibility for elder care.
+Text 2: Retirement should be a period of rest and leisure.",Inconsistent,0.46690481901168823
+"Text 1: Tourism is essential for economic growth in developing regions.
+Text 2: We believe that visa-free travel compromises national security.",Inconsistent,0.6513860821723938
+"Text 1: Athletic categories should be based strictly on biological sex.
+Text 2: National teams should prioritize diversity.",Inconsistent,0.7435474991798401
+"Text 1: We believe that adventure tourism endangers fragile environments.
+Text 2: High touristic activity is a sign of a thriving local economy.",Inconsistent,0.7394593358039856
+"Text 1: Gender-neutral bathrooms promote inclusivity.
+Text 2: Gender topics should not be taught in schools to preserve traditional values.",Inconsistent,0.5761933326721191
+"Text 1: Water is a basic human right and should not be privatized.
+Text 2: Forests are economic resources that should be exploited for growth.",Inconsistent,0.6457482576370239
+"Text 1: Fishing quotas ensure marine ecosystems remain healthy.
+Text 2: Economic demands justify environmental sacrifices in mining.",Inconsistent,0.5853564739227295
+"Text 1: Ad revenue is critical for the sustainability of social media platforms.
+Text 2: Algorithms should prioritize meaningful connections.",Inconsistent,0.47589075565338135
+"Text 1: Creative liberties in films are necessary for storytelling.
+Text 2: Censorship protects societal values in films.",Inconsistent,0.7413775324821472
+"Text 1: Skyscrapers are a symbol of progress and modernization.
+Text 2: Urban sprawl must be limited to preserve green spaces.",Inconsistent,0.6954489946365356
+"Text 1: Luxury resorts monopolize natural resources and exclude locals.
+Text 2: Forests are economic resources that should be exploited for growth.",Inconsistent,0.6748687028884888
+"Text 1: Cruise tourism pollutes fragile marine environments.
+Text 2: Fishing quotas limit economic opportunities for coastal communities.",Consistent,0.5680605173110962
+"Text 1: Airbnb drives up housing costs for locals.
+Text 2: Rent control reduces investment in the housing market.",Consistent,0.590584933757782
+"Text 1: Gender quotas promote workplace equality.
+Text 2: Merit-based hiring is the fairest approach for all employees.",Inconsistent,0.6790376305580139
+"Text 1: Healthcare professionals must rely on biological data over self-identification.
+Text 2: Trans-inclusive policies are essential for equity.",Inconsistent,0.6465822458267212
+"Text 1: Anonymity enables cyberbullying and misinformation.
+Text 2: Data privacy should be prioritized on social media.",Consistent,0.454670786857605
+"Text 1: Social media should remain free for users.
+Text 2: Ad revenue is critical for the sustainability of social media platforms.",Inconsistent,0.5786950588226318
+"Text 1: Skilled labor should be prioritized in construction hiring.
+Text 2: Local hiring ensures community support for projects.",Consistent,0.5745716691017151
+"Text 1: Free admission reduces funding for preserving historical artifacts.
+Text 2: Museums should be accessible to all.",Inconsistent,0.6676394939422607
+"Text 1: We should not criminalize poverty without addressing its root causes.
+Text 2: Prohibiting homeless camping improves public spaces.",Inconsistent,0.7135053873062134
+"Text 1: Banning alcohol ads reduces societal harm.
+Text 2: We are committed to freedom of expression and freedom of the press.",Inconsistent,0.5417674779891968
+"Text 1: Facial recognition software enhances public safety.
+Text 2: Data privacy should be prioritized on social media.",Inconsistent,0.48117923736572266
+"Text 1: Military research at universities ensures national security advancements.
+Text 2: Higher defense budgets divert funds from critical social programs.",Inconsistent,0.6285811066627502
+"Text 1: Immigrants should demonstrate basic language skills before receiving free services and social benefits.
+Text 2: The cost of German language courses must be covered by the participants.",Consistent,0.5595740079879761
+"Text 1: Data sharing is essential for technological advancement.
+Text 2: Facial recognition invades privacy and risks misuse.",Inconsistent,0.5518224239349365
+"Text 1: Abolishing family reunification rights prevents abuse of refugee policies.
+Text 2: We believe that our nation should focus on family values and creating families.",Inconsistent,0.6896082162857056
+"Text 1: Reducing unemployment benefits for rejecting job offers promotes accountability.
+Text 2: Strict benefit reductions overlook individual circumstances, worsening poverty.",Inconsistent,0.556547999382019
+"Text 1: A migration museum risks politicizing cultural heritage.
+Text 2: We focus on inclusivity and diversity, ensuring representation across all levels of our party.",Inconsistent,0.5854350924491882
+"Text 1: Phasing out coal by 2038 ensures a gradual transition.
+Text 2: Ending wind energy subsidies redirects funds to more efficient energy solutions.",Inconsistent,0.572569727897644
+"Text 1: We support the implementation of pilot projects for Universal Basic Income.
+Text 2: Free meals don't have to be included in basic employment benefits.",Unrelated,0.37193745374679565
+"Text 1: Further construction of mosques with minarets should be halted.
+Text 2: Everyone has the right to have visible places of worship.",Inconsistent,0.7463660836219788
+"Text 1: We support providing state assistance to companies that offer apprenticeships in rural areas.
+Text 2: Job market can regulate itself without external interventions.",Inconsistent,0.6448484659194946
+"Text 1: A tax on firearm ownership should be implemented.
+Text 2: We will relax the background check requirements for obtaining a weapon license.",Inconsistent,0.6431087255477905
+"Text 1: We support providing sports clubs membership subsidies to children and young people from low-income families.
+Text 2: Parents should continue to cover the daycare costs for their children.",Inconsistent,0.5819383859634399
+"Text 1: We support implementing a general alcohol ban around the main train station.
+Text 2: Licensing hours for bars and pubs will be extended across the country to boost the hospitality sector.",Inconsistent,0.5713464021682739
+"Text 1: Education should prepare students for life and prioritize practical skills.
+Text 2: We support the inclusion of local history in the curriculum of secondary schools.",Consistent,0.5399245023727417
+"Text 1: We support allowing agricultural use in flood protection areas.
+Text 2: In case of a natural catastrophe, the government is not obligated to provide aid to individuals who live in disaster-prone areas and have chosen not to relocate.",Inconsistent,0.6047148704528809
+"Text 1: We support giving city districts autonomy over their budgetary expenditures.
+Text 2: The federal government should allocate resources among states to aid less economically developed regions.",Consistent,0.43667203187942505
+"Text 1: We support imposing stricter regulations on fishing in the National Park.
+Text 2: Hunting should be recognized as a legitimate tourist activity.",Inconsistent,0.639129638671875
+"Text 1: We support making primary school teachers' recommendations binding when transitioning to secondary school.
+Text 2: Educational choices should depend on the will of the child and the guardians.",Inconsistent,0.5226281881332397
+"Text 1: We support implementing mandatory video surveillance in slaughterhouses to monitor the slaughter process.
+Text 2: The state shouldn't introduce vegan day at schools.",Inconsistent,0.5688138604164124
+"Text 1: Employees should have a legal entitlement to take leave for general continuing education (educational leave).
+Text 2: Companies should not bear the full responsibility for providing parental benefits.",Consistent,0.4068007171154022
+"Text 1: Clubs for e-sports (computer games) should be promoted by the state like sports clubs.
+Text 2: We must ensure that the production and distribution of particularly violent computer games are banned.",Inconsistent,0.47544026374816895
+"Text 1: Collecting discarded food from supermarket dumpsters should remain illegal.
+Text 2: We advocate for the construction of additional shelters to assist those in need.",Inconsistent,0.4467935264110565
+"Text 1: We advocate for conducting citizen consultations before the sale of public companies.
+Text 2: We believe that companies must have the right to protect their sensitive business information through commercial secrecy.",Inconsistent,0.5750908255577087
+"Text 1: We support the initiative for the city of Berlin to purchase more apartments from private housing companies.
+Text 2: Owners of private apartments should be permitted to rent out their properties for short-term vacation stays.",Inconsistent,0.4172114133834839
+"Text 1: We will ensure that every locality is accessible at least hourly by public transport.
+Text 2: A €29 ticket for all citizens is not financially viable, we can only provide it to schoolchildren, students and trainees.",Inconsistent,0.5830747485160828
+"Text 1: We fully support the conversion of additional car streets to bicycle streets.
+Text 2: We propose reducing the taxes on the purchase of new cars to stimulate the automotive industry",Inconsistent,0.5573369264602661
+"Text 1: The working conditions in businesses with seasonal workers should be more strictly monitored.
+Text 2: There should be no prohibition of fixed-term employment contracts in the public sector.",Inconsistent,0.5112602114677429
+"Text 1: The state should create financial incentives for more farms to switch to ecological agriculture.
+Text 2: No more areas should be designated for wind power plants.",Inconsistent,0.5963732600212097
+"Text 1: Private investors should be involved in financing the expansion of transportation infrastructure.
+Text 2: The state should take over the debts of financially overburdened municipalities.",Inconsistent,0.5872200727462769
+"Text 1: Landlords should be allowed to decide whether they can rent out their apartments as vacation rentals.
+Text 2: A certain percentage of new apartments should be required to be social housing.",Inconsistent,0.5065017938613892
+"Text 1: The approval of new cars with internal combustion engines should still be possible.
+Text 2: The government-mandated price for CO2 emissions from heating and driving should rise more than planned.",Inconsistent,0.5877143740653992
+"Text 1: The legal minimum wage should be raised to at least 12 euros.
+Text 2: Unemployment benefits should be reduced if the recepients don't show enough effort in looking for a job.",Inconsistent,0.5425088405609131
+"Text 1: Asylum should be granted only to politically persecuted individuals.
+Text 2: Freedom of movement is a fundamental human right.",Inconsistent,0.6197793483734131
+"Text 1: The Nord Stream 2 pipeline should be allowed to operate as planned to provide Germany with sufficient gas supplies from Russia.
+Text 2: Chinese companies should not be allowed to take contracts for expanding communication infrastructure in Germany.",Inconsistent,0.46486780047416687
+"Text 1: We firmly reject privatization of profits when shifting the costs to the taxpayer.
+Text 2: We support the state's co-financing of the expansion of the city football stadium.",Inconsistent,0.5458515882492065
+"Text 1: The population must be protected from further fiscal burdens.
+Text 2: We support the expansion of the airport to enhance regional connectivity.",Inconsistent,0.5936095118522644
+"Text 1: We urgently need to spread political awareness among our citizens, including the older ones.
+Text 2: We support reducing the number of radio programs.",Inconsistent,0.511955976486206
+"Text 1: As a citizen-oriented party, we advocate for simplified tax laws.
+Text 2: We support the idea that freelancers, such as lawyers and doctors, should also pay business taxes.",Inconsistent,0.5569519400596619
+"Text 1: Social housing should primarily be given to Germans.
+Text 2: No one may be disadvantaged or favored because of their homeland and origin.",Inconsistent,0.81318199634552
+"Text 1: Universities should be allowed to conduct research for military purposes.
+Text 2: Universities should concentrate on advancing science and improving the world.",Inconsistent,0.6239960789680481
+"Text 1: We will work to ensure that the legal regulations for abortions are relaxed.
+Text 2: The protection of life in all its phases is a valuable asset that should not be treated lightly.",Inconsistent,0.6619305610656738
+"Text 1: The security around the subway stations at night is a great concern that we want to address.
+Text 2: We don't see a need to build more shelters for homeless people.",Inconsistent,0.6917194724082947
+"Text 1: There should be a €29 ticket for everyone to use local public transport.
+Text 2: Passengers need to pass a background-check and have stable income to qualify for the discounted ticket subscription.",Inconsistent,0.4836038053035736
+"Text 1: Cutting social benefits to vulnerable groups should be a lengthy and carefully thought through process.
+Text 2: Recipients of unemployment benefit should have their aid reduced if they reject job offers.",Inconsistent,0.6110827922821045
+"Text 1: Theater and museums should rely more on self-financing.
+Text 2: We will expand free access to cultural programs in schools, including frequent theater and museum visits.",Inconsistent,0.5676317811012268
+"Text 1: Long-term unemployed individuals should be required to do community service.
+Text 2: We will simplify access to unemployment benefits.",Inconsistent,0.6298753023147583
+"Text 1: The water supply should be privatized.
+Text 2: Access to clean and affordable water is a basic human right.",Inconsistent,0.753373920917511
+"Text 1: Short-distance flights are damaging for the environment, so we oppose them.
+Text 2: We will reduce subsidies for intercity public transport.",Inconsistent,0.4275698959827423
+"Text 1: We will abolish tax advantages for capital and wealth.
+Text 2: We aim to attract more multinational corporations.",Inconsistent,0.6567000150680542
+"Text 1: We are committed to effective measures to end homelessness.
+Text 2: If there is high accumulated rent debt, evictions should continue to be permitted.",Inconsistent,0.7008911967277527
+"Text 1: We believe that countries' foreign policy should be driven by pragmatic, economic concerns.
+Text 2: We condemn our neighboring country which collaborates both with NATO and anti-Western powers.",Inconsistent,0.6243598461151123
+"Text 1: We think that a concept of Europe is rooted in historical and cultural identity.
+Text 2: Europe is united primarily by same economical and security goals.",Inconsistent,0.5786846280097961
+"Text 1: We believe that NATO's purpose is to provide collective defense, primarily against threats like Russia.
+Text 2: We disagree with imposing stricter sanctions on Russia and believe it is justified for us to continue economic partnership.",Inconsistent,0.7080085277557373
+"Text 1: Unemployment benefit recipients are already living on the poverty line, we consider further cuts and reductions unethical.
+Text 2: Recipients of unemployment benefit should have their aid reduced if they reject job offers.",Inconsistent,0.6598929762840271
+"Text 1: People who have not committed any crimes have no place in prisons.
+Text 2: We advocate for increasing the number of rejected asylum seekers placed in detention pending deportation.",Inconsistent,0.6906233429908752
+"Text 1: There should be enough competition in transportation area.
+Text 2: We support operating the underground systems in major cities as a state-owned enterprise.",Inconsistent,0.7021312713623047
+"Text 1: We support connecting the new coal power plant to the district heating network.
+Text 2: Our goal is to expand renewable energies significantly by 2030.",Inconsistent,0.7006955146789551
+"Text 1: We propose to ban the sale of junk food (cola, chips, candy bars, etc.) in schools.
+Text 2: We are convinced that subsidizing free meals at schools is not necessary.",Inconsistent,0.5153207182884216
+"Text 1: We support limiting the wolf population in rural areas for the safety and balance of the ecosystem.
+Text 2: Preserving biodiversity is one of the pillars of our environmental program.",Inconsistent,0.5129339694976807
+"Text 1: We stand for a massive fight against corruption and lobbying.
+Text 2: We advocate for companies to continue having the right to make donations to political parties.",Inconsistent,0.7092999815940857
+"Text 1: We stand for international solidarity as well as exchange and cooperation with our alliance partners.
+Text 2: We advocate for a withdrawal of the US military forces stationed in the our country.",Inconsistent,0.4669826924800873
+"Text 1: We insist that parliamentary oversight must be expanded to increase transparency.
+Text 2: We advocate for the dissolution of the constitutional protection agency.",Inconsistent,0.6187366843223572
+"Text 1: We believe that the state must behave politically neutral.
+Text 2: We support the continued funding of projects to combat political extremism.",Inconsistent,0.5023760795593262
+"Text 1: The covert online search of private computers by security authorities should be prohibited.
+Text 2: We believe that any measure is justified to prevent crimes and save lives.",Inconsistent,0.7402887940406799
+"Text 1: Child benefit should only be paid to German families.
+Text 2: The state should promote projects to integrate foreigners.",Inconsistent,0.7186402082443237
+"Text 1: Our public services will thrive post-Brexit with regained resources.
+Text 2: EU healthcare professionals are integral to our health system.",Inconsistent,0.598752498626709
+"Text 1: Consumers should support local products to help the economy.
+Text 2: European imports offer affordability and variety to our markets.",Inconsistent,0.5915848612785339
+"Text 1: We should invest more in our military to support NATO.
+Text 2: Efforts to revitalize the economy must be prioritized above everything to recover from crisis.",Inconsistent,0.644645094871521
+"Text 1: We want to fully subsidize healthcare for the aging population.
+Text 2: Flat-rate fees in health insurance are essential to ensure the sustainability of our healthcare system.",Inconsistent,0.6448693871498108
+"Text 1: We will prioritize our national defense at all costs.
+Text 2: We must dedicate ourselves to ending the war, stopping the humanitarian catastrophe and further loss of innocent lives.",Inconsistent,0.6249396204948425
+"Text 1: Our openness to multi-cultural influences drives our global success.
+Text 2: Protecting our religious traditions makes our nation stronger.",Inconsistent,0.5551702976226807
+"Text 1: We are proud to help establish peace in the Middle East, since living in peace is a basic human right.
+Text 2: We will reduce refugee quotas twice to spend resources on domestic needs.",Inconsistent,0.723436713218689
+"Text 1: Everyone is obliged to respect the right of all individuals to exist, to live, and to express themselves.
+Text 2: We condemn a high-status politician who demonstrates inappropriate behavior on social media.",Consistent,0.4483802616596222
+"Text 1: We must protect our indigenous culture.
+Text 2: Promoting German as the dominant language ensures unity.",Inconsistent,0.5882939100265503
+"Text 1: We want to relieve the burden on small and medium-sized incomes.
+Text 2: Wealth tax reduces incentives for investment and capital formation, and is therefore redundant.",Inconsistent,0.49722036719322205
+"Text 1: The death penalty should be reinstated to deter crime.
+Text 2: The value of human life is sacred.",Inconsistent,0.7744446992874146
+"Text 1: Healthcare should remain universal and accessible.
+Text 2: Having private enterprises in social sectors is essential to improve the quality of services.",Inconsistent,0.5830665826797485
+"Text 1:  We believe that our nation should focus on family values and creating families.
+Text 2:  We are against egg donation.",Inconsistent,0.49529585242271423
+"Text 1: Genetically modified plants have no place in Saxony's fields.
+Text 2: Demand should determine supply, no matter whether we like it or not.",Inconsistent,0.6522289514541626
+"Text 1: Every child must pass a language test before being admitted to school.
+Text 2: Inclusion and integration of children from socially disadvantaged groups and children with a migrant background is important from early age.",Inconsistent,0.4858727753162384
+"Text 1: We are committed to the unrestricted rights of gun ownership.
+Text 2: We advocate for comprehensive background checks and training for all weapon owners.",Inconsistent,0.7088756561279297
+"Text 1: We aim to promote tourism.
+Text 2: There should be a tax for hotel stays (city tax).",Consistent,0.5342487096786499
+"Text 1: Juvenile offenders should be imprisoned for a short period of time if they are convicted on probation.
+Text 2: Children, which are currently considered to be people up to the age of 14, do not yet have a sufficiently developed understanding of right and wrong.",Inconsistent,0.6007794141769409
+"Text 1: We should conclude a free trade agreement with the USA.
+Text 2: Small companies in our country cannot keep up with the reduced prices of great powers.",Inconsistent,0.4689787030220032
+"Text 1: Police officers should be allowed to fire targeted fatal shots as a last resort in dangerous situations.
+Text 2: Reforming arrest protocols is necessary to reduce police misconduct.",Inconsistent,0.6168531179428101
+"Text 1: We support coordination within NATO and underline the friendly relations between the USA and Germany.
+Text 2: The USA should give up its military bases within the European Union.",Inconsistent,0.6993804574012756
+"Text 1: Spain’s unity is vital for Catalonia’s economic strength.
+Text 2: We call for a sovereign Catalonia to preserve its identity.",Inconsistent,0.5509342551231384
+"Text 1: Demilitarizing the police will build community trust.
+Text 2: We need harsher penalties for those who resist arrest.",Inconsistent,0.7123323678970337
+"Text 1: We are increasing regulations on gender-affirming care to ensure well-thought decisions.
+Text 2: Access to gender-affirming surgeries should be a universal right.",Inconsistent,0.4792826473712921
+"Text 1: Ex-convicts should be barred from voting to ensure societal integrity.
+Text 2: Rehabilitation programs are key to reducing recidivism.",Inconsistent,0.7331670522689819
+"Text 1: Body cameras should be mandatory for all police officers.
+Text 2: The right to control and determine how one's personal information is used is a core fundamental right.",Consistent,0.6327628493309021
+"Text 1: We must train scientists who will save us and our nation in the future.
+Text 2: The owners of scientific patents should keep their right to not disclose them.",Inconsistent,0.6015217900276184
+"Text 1: Operators of websites should be legally obliged to delete false information (“fake news”) that has been pointed out to them.
+Text 2: We are committed to freedom of expression and freedom of the press.",Inconsistent,0.7393212914466858
+"Text 1: Ride-sharing services compete unfairly with traditional taxis and should be regulated.
+Text 2: Public transit should operate as a for-profit service.",Inconsistent,0.6158961057662964
+"Text 1: We believe the state should promote projects for the integration of female and male migrants.
+Text 2: Asylum seekers should be accommodated together in facilities that were built specifically for hosting them.",Consistent,0.5118913650512695
+"Text 1: All police stations should be open around the clock.
+Text 2: We insist on further staff cuts in ministries and state workers.",Inconsistent,0.689837634563446
+"Text 1: Sundays and holidays are for individual rest and fellowship with family and God.
+Text 2: We aim to grant businesses more freedom in their operations to increase competitiveness and boost economic activity.",Inconsistent,0.5497515797615051
+"Text 1: We should not promote any more projects in affirmative action.
+Text 2: There should be a certain women quota for leadership positions in state-owned companies.",Inconsistent,0.6112970113754272
+"Text 1: The EU should provide more money for development aid.
+Text 2: More EU foreign policy decisions should be made by unanimity rather than majority.",Consistent,0.46949565410614014
+"Text 1: The use of local public transport should be free of charge.
+Text 2: We are planning to massively expand tram lines beyond the city center.",Consistent,0.5816618204116821
+"Text 1: A resilient democracy requires instruments based on the rule of law to monitor and combat any form of extremism.
+Text 2: We support the abolition of the state office for the protection of the constitution.",Inconsistent,0.6590239405632019
+"Text 1: We want to encourage individuals to invest their savings into securities.
+Text 2: We support implementing a capital gains tax on securities to ensure fair taxation on investment profits.",Inconsistent,0.5071486234664917
+"Text 1: Unions are essential to protecting workers’ rights.
+Text 2: Next year we will increase the minimum number of workers required to form a union.",Inconsistent,0.46474817395210266
+"Text 1: Police should have access to encrypted messages in messenger services (e.g. WhatsApp, Telegram) following a court order.
+Text 2: We believe that private messages shouldn't be considered as evidence in court.",Inconsistent,0.654906153678894
+"Text 1: Business activities of municipalities should be limited to basic services (e.g. water, gas, electricity, heat).
+Text 2: We made a donation to our municipality to promote the local arts scene.",Inconsistent,0.4417280852794647
+"Text 1: China is our main partner in the construction a new highway to the city airport.
+Text 2: The participation of non-European investors in companies in the area of ​​critical infrastructure should be more strictly restricted in the EU.",Inconsistent,0.5899847745895386
+"Text 1: We will implement stricter verification processes to check the eligibility for disability benefits.
+Text 2: We will raise state-provided financial support for caregivers.",Inconsistent,0.48953524231910706
+"Text 1: Bike and scooters rental companies will have to go through rigorous negotionations with city administration to obtain permission to expand their parking stations.
+Text 2: Rental electric scooters should only be allowed to be parked in designated parking spaces.",Consistent,0.6175906658172607
+"Text 1: Companies should be able to choose freely whom to hire and on which conditions.
+Text 2: We will ensure that the minimum wage is paid for compulsory internships.",Inconsistent,0.5211156010627747
+"Text 1: Christian values ​​should be the guiding principle of German politics.
+Text 2: We are proud to unite a diverse electorate with different backgrounds and beliefs.",Inconsistent,0.5519112944602966
+"Text 1: In the event of significant delays in payment, private households should be cut off from electricity.
+Text 2: The state must make sure that each and every citizen has an access to all the basic services.",Inconsistent,0.6154584884643555
+"Text 1: Parents should be allowed to exclude their child from participating in cultural or sports programs at school.
+Text 2: Visiting a memorial site commemorating the crimes of National Socialism should be compulsory for all schoolchildren.",Inconsistent,0.5357587337493896
+"Text 1: We aim to encourage more German students to pursue higher education.
+Text 2: In the near future, we plan to offer most university degrees primarily in English.",Inconsistent,0.5277378559112549
+"Text 1: Overall, our city needs at least 5,500 new apartments per year.
+Text 2: We support the elimination of public funding for social housing construction.",Inconsistent,0.6554456353187561
+"Text 1: We support the installation of charging stations for electric vehicles at all public facilities.
+Text 2: We believe that the automotive industry does not need any state support.",Inconsistent,0.6035386919975281
+"Text 1: We advocate for increasing the sanctions against Russia.
+Text 2: Fields like science, sport, and art shouldn't be affected by politics.",Inconsistent,0.5944927930831909
+"Text 1: Ensuring safety is the task of the police.
+Text 2: We support the establishment of a citizen patrol.",Consistent,0.46586647629737854
+"Text 1: We strongly support the complete equality of marriage and same-sex partnerships.
+Text 2: Only families with children should be financially supported.",Inconsistent,0.5973635315895081
+"Text 1: We support allowing the temporary incarceration of juvenile offenders on probation as a warning arrest measure.
+Text 2: We aim to substantially decrease the rate of reoffending following the completion of a prison sentence.",Consistent,0.48070499300956726
+"Text 1: We reject the idea of establishing drug consumption rooms.
+Text 2: Death from drug overdose is a significant problem we need to address.",Inconsistent,0.5663332343101501
+"Text 1: Social housing should be allocated based on objective criteria of need.
+Text 2: We support giving preferential access to social housing for German citizens.",Inconsistent,0.6657602190971375
+"Text 1: We support the recommendation for EU member states to allow the registration of a gender identity other than female or male in passports.
+Text 2: We will not provide any financial resources for the adaptation and use of gender language.",Inconsistent,0.64962238073349
+"Text 1: Equal pay should only be for equal qualifications and work.
+Text 2: We support equal starting salaries for primary school teachers and high school teachers.",Consistent,0.44005730748176575
+"Text 1: We support the mandatory involvement of children and young people in all decisions that affect them within every community.
+Text 2: Lowering the voting age in municipal elections to 16 years is not necessary.",Inconsistent,0.4815957546234131
+"Text 1: Motivated and confident workforce is a crucial success factor for the economy.
+Text 2: We support limiting the scope of employee influence in decision-making within companies to promote competitiveness.",Inconsistent,0.7034231424331665
+"Text 1: Topics such as the vocational training and apprenticeships should be uniformly regulated.
+Text 2: We support the abolition of mandatory membership for companies in the Chamber of Commerce and Industry.",Inconsistent,0.4478243291378021
+"Text 1: We believe that a free market economy is the best strategy to combat unemployment.
+Text 2: More quotas should be given to people who commit to working as doctors in rural areas later on.",Inconsistent,0.48519980907440186
+"Text 1: We reject government regulations in wage determination.
+Text 2: We work towards reducing the weekly working hours to 30 hours with full compensation.",Inconsistent,0.5031949281692505
+"Text 1: We advise the Central Bank to increase interest rates.
+Text 2: We believe that consumption is a main driver of the economy.",Inconsistent,0.6924115419387817
+"Text 1: We will introduce significant tax cuts next year.
+Text 2: Our main priority is to close the budget deficit as soon as possible.",Inconsistent,0.6401441097259521
+"Text 1: We want to provide best conditions for unicorn companies and transnational corporations to emerge in the EU.
+Text 2: Each member of the EU has a right to set its own business regulations.",Inconsistent,0.5820327997207642
+"Text 1: A serious technological advancement happened in serious criminal activities in the past years.
+Text 2: We aim to prohibit security authorities from conducting covert online searches of private computers.",Inconsistent,0.45713815093040466
+"Text 1: To restore the economy, we should give incentives for people to spend more.
+Text 2: We believe that increasing the minimum wage will hurt businesses.",Inconsistent,0.6169090270996094
+"Text 1: We advocate for lowering financial equalization payments to promote greater self-reliance among German states.
+Text 2: Wealthier German states should be subject to higher tax rates.",Inconsistent,0.5926715731620789
+"Text 1: Opera houses and theaters should be financed more privately.
+Text 2: Culture is part of the basic provision of human life and must not be dependent on the whim of donors.",Inconsistent,0.6783417463302612
+"Text 1: We advocate for implementing investment controls to safeguard domestic companies from foreign takeovers.
+Text 2: We encourage free trade agreements to remove all barriers to international investment.",Inconsistent,0.7409926652908325
+"Text 1: We support the continued classification of certain dog breeds as inherently dangerous.
+Text 2: We believe that the danger posed by the dog is linked to poor ubringing only.",Inconsistent,0.6937999129295349
+"Text 1: We propose reducing financial assistance for economically weaker regions in the EU.
+Text 2: The principle of solidarity in the EU must also apply to economics.",Inconsistent,0.7151643633842468
+"Text 1: Europol is less controllable than national police organizations.
+Text 2: Europol must be granted additional powers.",Inconsistent,0.5205934643745422
+"Text 1: We support continuing tax benefits for married couples without children.
+Text 2: State financial support should not be tied to a specific form of partnership, but to the children living in the household.",Inconsistent,0.5361992120742798
+"Text 1: We want an option for accelerated naturalization after four years and the general allowance of dual citizenship.
+Text 2: We advocate for the policy that adult German citizens should not hold dual citizenship.",Inconsistent,0.6679285168647766
+"Text 1: We support the European Union in promoting the immigration of skilled workers from non-EU countries.
+Text 2: There are enough workers in the EU who should be better trained to become skilled workers.",Inconsistent,0.6561928391456604
+"Text 1: Ensuring safety is a basic state responsibility.
+Text 2: We propose that the costs of police operations at football matches should be covered by the event organizers.",Inconsistent,0.552577555179596
+"Text 1: A minimum wage law should be introduced nationwide.
+Text 2: Minimum wages should continue to apply only to certain sectors in Berlin.",Inconsistent,0.5878187417984009
+"Text 1: A uniform system regarding vehicles movement and traffic control should be applied on all highways in the EU.
+Text 2: We are against general speed limit on the highways in Germany.",Inconsistent,0.6521550416946411
+"Text 1: We are against grades in primary school.
+Text 2: Students' social behavior, as well as diligence, should be reintroduced on school reports.",Inconsistent,0.5179816484451294
+"Text 1: Germany should agree to a debt cut for Greece.
+Text 2: German taxpayers are not Europe's paymaster.",Inconsistent,0.6441539525985718
+"Text 1: We advocate for granting 16-year-olds the right to vote in elections.
+Text 2: We believe that individuals under 18 lack the maturity to make informed decisions in any civic matters.",Inconsistent,0.6864415407180786
+"Text 1: We want to gradually achieve complete fee exemption for childcare.
+Text 2: Parents should continue to contribute to the costs of their children's daycare services.",Inconsistent,0.6684948205947876
+"Text 1: If the Pope wants us to have children, it should be as inexpensive as possible.
+Text 2: We believe that parents should continue to contribute to the costs of their children's daycare services.",Inconsistent,0.6053439378738403
+"Text 1: Education should always be free and therefore accessible to everyone. This also applies to early childhood development.
+Text 2: We believe that parents should continue to contribute to the costs of their children's daycare services.",Inconsistent,0.6665112972259521
+"Text 1: Longer store opening hours often lead to poorer working conditions for employees. Therefore, we oppose longer opening hours.
+Text 2: Businesses should be allowed to remain open past 8 PM on weekdays.",Inconsistent,0.6326956152915955
+"Text 1: No one should have anything taken away just because they don't feel like showing up at the office, including the office employees.
+Text 2: We support the continued reduction of benefits for recipients of unemployment benefits who repeatedly miss appointments at the job center.",Inconsistent,0.6813526153564453
+"Text 1: Private schools already constitute part of the educational offerings and are supported in the framework of funding educational institutions.
+Text 2: We advocate for increased support and funding for private schools.",Consistent,0.6437402963638306
+"Text 1: The right to demonstrate should be afforded to everyone and taken fundamentally seriously.
+Text 2: We support the continued criminal prosecution of sit-in blockades on streets.",Inconsistent,0.6945629119873047
+"Text 1: People with low incomes already can use transportation at reduced prices.
+Text 2: Public transportation must be free for individuals with low income.",Inconsistent,0.511050820350647
+"Text 1: We demand unrestricted asylum rights for all refugees.
+Text 2: We advocate to consistently deport foreign nationals who are obliged to leave the country.",Inconsistent,0.7393175363540649
+"Text 1: A return to national currencies would bring more disadvantages than advantages.
+Text 2: We support the reintroduction of a national currency in place of the Euro for Germany.",Inconsistent,0.6877521872520447
+"Text 1: We are against parties and parliamentarians becoming too closely tied with individual companies.
+Text 2: We support allowing corporate sponsorship of state government events.",Inconsistent,0.6829602718353271
+"Text 1: The surveillance state is undemocratic and is meant to intimidate people.
+Text 2: Video surveillance must be increased in public areas to enhance safety.",Inconsistent,0.6520617008209229
+"Text 1: Europe needs tax cuts, not new taxes.
+Text 2: We support the EU having the ability to levy its own taxes instead of relying on national contributions.",Inconsistent,0.6691569089889526
+"Text 1: Freight trains should run as unbraked and as fast as possible.
+Text 2: Freight trains without whisper brakes be required to travel more slowly at night.",Inconsistent,0.6342705488204956
+"Text 1: A true democracy tolerates the existence of dissenters.
+Text 2: We support the continued funding of projects against right-wing extremism.",Consistent,0.511627733707428
+"Text 1: We have enough public holidays.
+Text 2: We support making International Women's Day on March 8th a public holiday.",Inconsistent,0.4775032103061676
+"Text 1: The 'morning-after pill' should, as in many European countries, be available just after consultation with a pharmacist.
+Text 2: We believe that the morning-after pill should remain prescription-only.",Inconsistent,0.6554033160209656
+"Text 1: Video surveillance does not prevent crime; only people can prevent crime.
+Text 2: Video surveillance must be increased in public areas to enhance safety.",Inconsistent,0.6169372200965881
+"Text 1: Religious education in schools conveys regional culture.
+Text 2: Confessional religious education must be abolished in state schools.",Inconsistent,0.5801538228988647
+"Text 1: We support requiring professional football clubs to contribute to the costs of police operations during matches.
+Text 2: The troublemakers who cause the incidents should be held accountable, not the clubs.",Inconsistent,0.6687199473381042
+"Text 1: If we really want to achieve the energy transition, then not with fossil fuels.
+Text 2: The construction of additional coal power plants is necessary.",Inconsistent,0.7542959451675415
+"Text 1: The energy needs of highly industrialized countries cannot be met with renewable energy.
+Text 2: We strongly advocate for the European Union countries to fully transition to renewable energy sources.",Inconsistent,0.7595309019088745
+"Text 1: The separation between state and religion should be consistently enforced.
+Text 2: We support the training of Berlin teachers for Islamic religious education at German universities.",Inconsistent,0.5413137078285217
+"Text 1: We support the introduction of French lessons in all primary schools starting from first grade.
+Text 2: We consider foreign language instruction starting from the first grade to be premature from a learning psychology perspective.",Inconsistent,0.6254382133483887
+"Text 1: The organization of public broadcastin is a matter for the nation-states, not the EU.
+Text 2: We support increasing financial support for cross-border, multilingual public broadcasting services within the EU.",Inconsistent,0.503808319568634
+"Text 1: Working in correctional facilities is not a traditional employment relationship. It primarily serves the purpose of resocialization.
+Text 2: The state must ensure that prisoners receive compensation for their work in prison that is equivalent to the legal minimum wage.",Inconsistent,0.6128556728363037
+"Text 1: Science and research must remain independent and in public hands.
+Text 2: There is a need for closer collaboration between universities and private companies.",Inconsistent,0.5997374057769775
+"Text 1: Legalizing the so-called dumpster diving would lead to less food waste.
+Text 2: The act of collecting discarded food from supermarket dumpsters must remain illegal.",Inconsistent,0.7888153791427612
+"Text 1: We want broad support for agriculture with no limitations.
+Text 2: We support the exclusive promotion of organic agriculture.",Inconsistent,0.5945739150047302
+"Text 1: Taxes are good and important to finance public expenditures.
+Text 2: The tax on acquiring residential property for personal use should be reduced.",Inconsistent,0.5138882398605347
+"Text 1: The separation of disabled and non-disabled individuals in schools serves the more effective learning of both groups
+Text 2: We support the inclusion of all students with disabilities in regular schools.",Inconsistent,0.7128066420555115
+"Text 1: A suspicion-independent identity check contributes to a mistrust towards our police forces.
+Text 2: The police should be allowed to conduct identity checks without specific suspicion.",Inconsistent,0.6447069048881531
+"Text 1: We support the complete public ownership of waste collection and street cleaning.
+Text 2: The re-municipalization of waste collection has led to rising fees while simultaneously reducing services.",Inconsistent,0.7148059606552124
+"Text 1: The opening of coal mines in populated areas should be stopped.
+Text 2: Continued mining of lignite in Germany is beneficial for the economy.",Inconsistent,0.7167844176292419
+"Text 1: Small parties should be able to have an influence on politics.
+Text 2: We want to mantain the five-percent threshold in state elections.",Inconsistent,0.45079803466796875
+"Text 1: A rent control is necessary to protect low-income individuals.
+Text 2: We advocate for the removal of rent control measures.",Inconsistent,0.6855964660644531
+"Text 1: Collective accommodations do not serve integration and unnecessarily fuel conflicts.
+Text 2: We support accommodating asylum seekers in collective housing facilities.",Inconsistent,0.6989811658859253
+"Text 1: A Europe without borders also needs no border controls.
+Text 2: We voted for the reintroduction of permanent border controls on the borders with Poland and the Czech Republic.",Inconsistent,0.6551136374473572
+"Text 1: We advocate for the complete abolition of daycare fees.
+Text 2: Daycare fees should only be charged from a certain level of income.",Inconsistent,0.5436493754386902
+"Text 1: We reject compulsory lessons in kindergarten.
+Text 2: We support making foreign language instruction mandatory in kindergartens.",Inconsistent,0.5867153406143188
+"Text 1: A speed limit prevents the smoothing of traffic flow and is counterproductive.
+Text 2: General speed limit must be implemented on highways.",Inconsistent,0.716789960861206
+"Text 1: Education and research must not serve purely private economic purposes.
+Text 2: We advocate for aligning university research more closely with the needs of the economy.",Inconsistent,0.5546168684959412
+"Text 1: We advocate for the reinstatement of the wealth tax.
+Text 2: A wealth tax would harm the economy and prosperity in Germany.",Inconsistent,0.7540907263755798
+"Text 1: We support recognizing gender-based violence against women as a valid reason for asylum across Europe.
+Text 2: Who receives asylum must be decided by the European states themselves.",Inconsistent,0.6683462262153625
+"Text 1: We advocate for universities to strengthen their collaboration with the business sector.
+Text 2: Collaboration with industry leads to third-party funds in the long term, which influence the freedom of teaching.",Inconsistent,0.5059325098991394
+"Text 1: We support increased restrictions on non-European investors in critical infrastructure companies within the EU.
+Text 2: In a truly free market, there is no such thing as a 'critical infrastructure'.",Inconsistent,0.7151817083358765
+"Text 1: All people have a right to a homeland, which must not be sacrificed for short-term economic interests.
+Text 2: We support the relocation of villages to allow for lignite mining.",Inconsistent,0.688178300857544
+"Text 1: We support the abolition of grade repetition in all schools.
+Text 2: The goal of schools is a successful graduation with a final exam, and people need different amounts of time to achieve this.",Inconsistent,0.5158923864364624
+"Text 1: In the unresolved issue of waste storage, it is irresponsible to further increase the waste.
+Text 2: We support the extension of nuclear power plant operating times.",Inconsistent,0.7270070314407349
+"Text 1: Recipients of social benefits must not be discriminated against because of their origin.
+Text 2: Social benefits for EU citizens who move to another EU country must be limited.",Inconsistent,0.5716705322265625
+"Text 1: The EU should become climate neutral by 2040 at the latest.
+Text 2: We argue that the EU should abandon its goal of becoming climate neutral.",Inconsistent,0.6260673403739929
+"Text 1: The rights of workers must be strengthened across Europe.
+Text 2: We support relaxing employment protection regulations in EU member states.",Inconsistent,0.6567960977554321
+"Text 1: Only through the current sanctions can the aggressor be shown appropriate boundaries.
+Text 2: We advocate for the easing of sanctions against Russia.",Inconsistent,0.5838786363601685
+"Text 1: Students should be educated to be pacifist.
+Text 2: We will allow informational events on the military topics at schools.",Inconsistent,0.5156749486923218
+"Text 1: Port operators should have an autonomy over their economic actions.
+Text 2: Handling military goods should be prohibited in the ports of Bremen.",Inconsistent,0.5350137948989868
+"Text 1: We support increasing efforts to recruit more healthcare workers from abroad.
+Text 2: The training of German nursing staff must be an absolute priority.",Consistent,0.5313540101051331
+"Text 1: We are against municipal territorial reform.
+Text 2: We support the merging of smaller districts into larger ones for improved efficiency.",Inconsistent,0.654503345489502
+"Text 1: A ban on private New Year's Eve fireworks would protect the health of people and animals.
+Text 2: Individuals should be allowed to continue enjoying private New Year's fireworks.",Inconsistent,0.6377025842666626
+"Text 1: We support the policy of reducing benefits for basic income recipients from the first day if they refuse job offers.
+Text 2: Declining a job offer must remain a human right.",Inconsistent,0.7127262353897095
+"Text 1: All goods should compete freely in the international market.
+Text 2: The EU import tariffs on Chinese electric cars must be increased.",Inconsistent,0.696457028388977
+"Text 1: Fxed-term employment contracts should be allowed without needing to provide a reason.
+Text 2: We advocate for the promotion of permanent employment relationships.",Inconsistent,0.5159410238265991
+"Text 1: We support allowing exceptions for the repatriation of rejected asylum seekers in cases of hardship.
+Text 2: In cases where asylum applications are definitively rejected, deportation must occur.",Inconsistent,0.45188969373703003
+"Text 1: We support using inclusive language in all national publications to represent all genders beyond just male and female.
+Text 2: We stand for a simplification of the language and not for complication.",Inconsistent,0.5109034180641174
+"Text 1: All bachelor's graduates should be granted the right to a master's program in the same state.
+Text 2: Universities today ideally meet the demand.",Consistent,0.5516247749328613
+"Text 1: Turkey is not part of Europe due to its tradition and geographical location.
+Text 2: Turkey should be granted full membership in the EU.",Inconsistent,0.7289290428161621
+"Text 1: We support financial subsidies for private solar installations.
+Text 2: Solar installations are now marketable and competitive.",Consistent,0.7037913203239441
+"Text 1: Targeted rehabilitation programs are needed instead of a general relaxation of drug policy.
+Text 2: Medically supervised drug consumption rooms should be established.",Inconsistent,0.5011504888534546
+"Text 1: No institutions or companies should be allowed to advertise themselves in schools.
+Text 2: We don't mind allowing recruitment advertisements for careers in the armed forces in schools.",Inconsistent,0.6590110659599304
+"Text 1: We support allowing children born and raised in Germany to foreign parents to retain dual citizenship.
+Text 2: Upon reaching adulthood, children of foreign parents who grew up here must choose a nationality.",Inconsistent,0.6177523732185364
+"Text 1: Government should financially support the nationwide expansion of mobile networks.
+Text 2: An expansion of mobile networks is the responsibility of the mobile operators.",Inconsistent,0.49345988035202026
+"Text 1: We support simplifying the recognition process for professional qualifications obtained abroad.
+Text 2: The high level of German vocational and university education must not be leveled down to an international average.",Inconsistent,0.5801768898963928
+"Text 1: The alignment of social standards and living conditions across the country is an important foundation of democratic structures.
+Text 2: Financially strong states should not be required to support weaker states.",Inconsistent,0.6877512335777283
+"Text 1: We propose reducing financial aid for economically weaker regions in the EU.
+Text 2: Weaker regions in particular need support.",Inconsistent,0.7146939039230347
+"Text 1: The use of snow cannons in Bavarian ski areas should be banned.
+Text 2: Winter sports are important for Bavaria's tourism.",Inconsistent,0.5847420692443848
+"Text 1: Asylum seekers should not be deported if they are granted sanctuary in a church.
+Text 2: Churches are not allowed to override the decisions made by the state.",Inconsistent,0.7144590020179749
+"Text 1: Wealthy individuals should contribute to funding the economic aid related to the coronavirus through a one-time levy.
+Text 2: The responsibility for the pandemic-related economic assistance lies with those who advocated for it.",Consistent,0.5050204992294312
+"Text 1: In agriculture, we rely on incentives and voluntariness instead of regulations.
+Text 2: There should be mandatory measures for agricultural operations, such as creating flower strips, to protect bees.",Inconsistent,0.6114073395729065
+"Text 1: State-owned companies generally function worse than private companies.
+Text 2: We strongly support the nationalization of all banks.",Inconsistent,0.7267864346504211
+"Text 1: We voted for the implementation of a tax on the trading of financial products.
+Text 2: The tax on the trading of financial products will ultimately be paid by the citizens who simply use banking products, and not by the banks themselves.",Inconsistent,0.5504875779151917
+"Text 1: We support easing restrictions on cultivating genetically modified crops.
+Text 2: Genetic engineering is a technique with unforeseeable consequences that only manifest after several generations, which are then irreparable.",Inconsistent,0.7041875720024109
+"Text 1: Schools should continue offering some online classes even after the pandemic.
+Text 2: Only technologies might prevent children from receiving personalized feedback and support from teachers.",Consistent,0.43930408358573914
+"Text 1: We advocate for higher Erasmus+ scholarships for students with fewer financial resources to support their study abroad experiences.
+Text 2: The Erasmus program provides sufficient resources for exchange students.",Inconsistent,0.5456787943840027
+"Text 1: We vote for the exclusive promotion of ecological animal husbandry by the European Union.
+Text 2: The European Union should drastically reduce its agricultural subsidies in general.",Inconsistent,0.6038470268249512
+"Text 1: We support equipping police forces with tasers for patrol duty.
+Text 2: The consequences of tasers' use have not been sufficiently studied.",Inconsistent,0.6573736667633057
+"Text 1: If the government provides financial aid to companies, it should also have a say in corporate decision-making.
+Text 2: Further tightening of decision-making processes in corporations would be counterproductive.",Inconsistent,0.6612666845321655
+"Text 1: We support granting exceptions for clubs in the city center from nighttime noise restrictions.
+Text 2: The nighttime rest of the residents is a greater good than the nighttime entertainment, especially from tourists.",Inconsistent,0.7438555955886841

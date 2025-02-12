@@ -1,0 +1,14 @@
+Below are detected pairs of statements with indirect inconsistencies:
+
+| Text 1                                                                                                       | Text 2                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 'In Sachsen soll es Schulen geben, an denen Kinder bis mindestens zur zehnten Klasse gemeinsam unterrichtet werden (Gemeinschaftsschule).'              | 'FÃ¶rderschulen in Sachsen sollen erhalten bleiben.'                                                                  |
+| 'Der Freistaat Sachsen soll sich fÃ¼r die EinfÃ¼hrung einer CO2-Steuer einsetzen.'                                 | 'Sachsen soll sich fÃ¼r ein generelles Tempolimit auf Autobahnen einsetzen.'                                          |
+| 'Alle Asylsuchenden, die versuchen Ã¼ber das Mittelmeer in die EU zu gelangen, sollen in ihre HeimatlÃ¤nder zurÃ¼ckgefÃ¼hrt werden.' | 'Asylsuchende sollen in der EU proportional auf die Mitgliedsstaaten verteilt werden.'                               |
+| 'Das Landesamt fÃ¼r Verfassungsschutz Sachsen soll aufgelÃ¶st werden.'                                            | 'Bei der VideoÃ¼berwachung an Ã¶ffentlichen Orten soll die sÃ¤chsische Polizei Software zur Gesichtserkennung einsetzen dÃ¼rfen.' |
+| 'Alle Asylsuchenden, die versuchen Ã¼ber das Mittelmeer in die EU zu gelangen, sollen in ihre HeimatlÃ¤nder zurÃ¼ckgefÃ¼hrt werden.' | 'Der Freistaat soll die Zuwanderung auslÃ¤ndischer FachkrÃ¤fte nach Sachsen fÃ¶rdern.'                                   |
+| 'Sachsen soll vor 2038 aus der Braunkohleverstromung aussteigen.'                                              | 'Der Freistaat Sachsen soll ausschlieÃŸlich den Ausbau erneuerbarer Energien fÃ¶rdern.'                              |
+| 'Das konfessionelle Religionsunterricht an Ã¶ffentlichen Schulen in Sachsen soll abgeschafft werden.'           | 'In sÃ¤chsischen Schulen soll ausschlieÃŸlich das traditionelle Familienbild (Vater, Mutter, Kinder) vermittelt werden.'|
+| 'Eltern sollen sich weiterhin an den Kosten fÃ¼r die Betreuung ihrer Kinder in sÃ¤chsischen Kitas beteiligen.'   | 'Erzieherinnen und Erzieher sollen das gleiche Gehalt wie Lehrerinnen und Lehrer erhalten.'                          |
+
+These pairs consist of statements that reflect opposite directions in specific topics without directly contradicting each other. These have been identified as indirect inconsistencies and documented in a CSV format.

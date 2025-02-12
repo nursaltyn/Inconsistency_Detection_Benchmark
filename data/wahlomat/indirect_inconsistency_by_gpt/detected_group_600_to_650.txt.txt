@@ -1,0 +1,32 @@
+To detect indirect inconsistencies, we need to identify pairs of statements that implicitly contradict each other in terms of ideological directions. Here is the analysis and corresponding CSV output for the provided political statements:
+
+### Analysis:
+
+1. **Statement Pair:**  
+   - **Text 1:** 'Die Stadt Hamburg soll die Strom-, FernwÃ¤rme- und Gasnetze vollstÃ¤ndig zurÃ¼ckkaufen.'  
+   - **Text 2:** 'Das Land Rheinland-Pfalz soll sich dafÃ¼r einsetzen, dass die LaufzeitverlÃ¤ngerung fÃ¼r Kernkraftwerke rÃ¼ckgÃ¤ngig gemacht wird.'
+
+   **Explanation:** Text 1 suggests an emphasis on self-reliance and possibly renewable energy control by the state, whereas Text 2 implies reducing reliance on nuclear energy, which can implicitly relate to increasing or maintaining other traditional energy sources. This forms an indirect inconsistency based on energy sourcing philosophy.
+
+2. **Statement Pair:**  
+   - **Text 1:** 'Mehr VideoÃ¼berwachung auf Ã¶ffentlichen PlÃ¤tzen.'  
+   - **Text 2:** 'Am Hamburger Flughafen sollen keine GanzkÃ¶rper-Scanner ("Nackt-Scanner") mehr eingesetzt werden.'
+
+   **Explanation:** Text 1 implies an increase in surveillance for public safety while Text 2 suggests a reduction of invasive security measures, potentially due to privacy concerns, creating an indirect inconsistency regarding privacy vs security.
+
+3. **Statement Pair:**  
+   - **Text 1:** 'Hamburg soll sich fÃ¼r einen flÃ¤chendeckenden Mindestlohn einsetzen.'  
+   - **Text 2:** 'Nur Deutsche sollen Anspruch auf Sozialleistungen haben.'
+
+   **Explanation:** Text 1 indicates support for economic equality through minimum wage while Text 2 restricts social benefits based on nationality, potentially opposing equitable economic support across all demographics, indirectly inconsistent in terms of social equity.
+
+### CSV Output:
+
+```csv
+"Text 1","Text 2"
+"Die Stadt Hamburg soll die Strom-, Fernwärme- und Gasnetze vollständig zurückkaufen.","Das Land Rheinland-Pfalz soll sich dafür einsetzen, dass die Laufzeitverlängerung für Kernkraftwerke rückgängig gemacht wird."
+"Mehr Videoüberwachung auf öffentlichen Plätzen.","Am Hamburger Flughafen sollen keine Ganzkörper-Scanner (""Nackt-Scanner"") mehr eingesetzt werden."
+"Hamburg soll sich für einen flächendeckenden Mindestlohn einsetzen.","Nur Deutsche sollen Anspruch auf Sozialleistungen haben."
+```
+
+These pairs highlight the indirect inconsistencies based on ideological and philosophical differences in the given political statements.

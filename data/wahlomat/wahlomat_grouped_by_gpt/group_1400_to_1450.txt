@@ -1,0 +1,69 @@
+Here are the statements grouped into likely categories of support:
+
+### Economic Policies and Infrastructure:
+1. 'Private Wohnungen sollen als Ferienwohnungen vermietet werden dürfen.'
+2. 'Die Grunderwerbsteuer in Brandenburg soll gesenkt werden.'
+3. 'Brandenburg soll ein 365-Euro-Ticket für den gesamten Verkehrsverbund Berlin-Brandenburg einführen.'
+4. 'Beim Aus- und Umbau von Straßen soll der Radverkehr gegenüber dem Autoverkehr bevorzugt werden.'
+5. 'Die Ticketpreise für den öffentlichen Personennahverkehr in Bremen und Bremerhaven sollen gesenkt werden.'
+6. 'Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Straße haben.'
+7. 'Brandenburg soll die Übernachtungsteuer für den Tourismus abschaffen.'
+
+### Environmental and Agricultural Policies:
+1. 'Brandenburg soll vor dem Jahr 2038 aus der Kohleverstromung aussteigen.'
+2. 'Die Förderung von Gas aus Gesteinsschichten (Fracking) soll in Brandenburg ausnahmslos verboten werden.'
+3. 'Nur Landwirte und Landwirtinnen, die klimaschonende Landwirtschaft betreiben, sollen bei wetterbedingten Ernteausfällen vom Land Brandenburg finanziell unterstützt werden.'
+4. 'Das Land Brandenburg soll vorrangig ökologische Landwirtschaft fördern.'
+5. 'Die intensive Tierhaltung ("Massentierhaltung") soll im Land Brandenburg grundsätzlich verboten werden.'
+6. 'In Brandenburg soll das Jagen von Tieren verboten werden.'
+7. 'Wölfe sollen in Brandenburg gejagt werden dürfen.'
+
+### Education:
+1. 'Schülerinnen und Schüler in Brandenburg sollen schon ab der ersten Klasse Schulnoten erhalten.'
+2. 'Das Schulsystem aus Oberschulen, Gesamtschulen und Gymnasien soll langfristig erhalten bleiben.'
+3. 'Schülerinnen und Schüler im Land Bremen sollen ab der dritten Klasse Noten erhalten.'
+4. 'Die Erinnerung an den Holocaust soll zentraler Bestandteil des geschichtsorientierten Unterrichts an bremischen Schulen bleiben.'
+5. 'An brandenburgischen Schulen soll ausschließlich das traditionelle Familienbild (Vater, Mutter, Kind) vermittelt werden.'
+6. 'Mehr geflüchtete Lehrerinnen und Lehrer sollen an brandenburgischen Schulen unterrichten dürfen.'
+
+### Housing and Urban Development:
+1. 'Beim Neubau von Wohnungen soll ein höherer Anteil als bisher für sozialen Wohnungsbau vorgesehen sein.'
+2. 'Es soll mehr verkaufsoffene Sonntage im Land Brandenburg geben.'
+3. 'Im Land Bremen soll es mehr verkaufsoffene Sonntage geben.'
+
+### Migration and Asylum:
+1. 'Das Land Brandenburg soll sich dazu bereit erklären, aus Seenot gerettete Flüchtlinge aufzunehmen.'
+2. 'Das Land Brandenburg soll ausreisepflichtige Ausländerinnen und Ausländer konsequent abschieben.'
+3. 'In Brandenburg sollen Asylbewerberinnen und Asylbewerber in Sammelunterkünften untergebracht werden.'
+4. 'Das Land Brandenburg soll gezielt ausländische Fachkräfte anwerben.'
+
+### Law, Order, and Security:
+1. 'Die Polizei in Brandenburg soll weiterhin Personenkontrollen verdachtsunabhängig durchführen dürfen.'
+2. 'Die Brandenburger Polizei soll weiterhin Bodycams (Körperkameras) einsetzen dürfen.'
+3. 'An der Grenze zu Polen sollen ständige Personenkontrollen durchgeführt werden.'
+4. 'Die Polizei soll Kontrollen auch verdachtsunabhängig durchführen dürfen.'
+5. 'Auch der Besitz geringer Mengen Cannabis soll in Brandenburg strafrechtlich verfolgt werden.'
+6. 'Der Verfassungsschutz in Brandenburg soll aufgelöst werden.'
+
+### Governance and Administration:
+1. 'In Hessen sollen Modellversuche zur Einführung eines bedingungslosen Grundeinkommens durchgeführt werden.'
+2. 'Das Land Brandenburg soll sich weiter finanziell am Bau des Flughafens BER beteiligen.'
+3. 'Die Fünf-Prozent-Hürde bei Landtagswahlen in Brandenburg soll beibehalten werden.'
+4. 'Es soll keine sachgrundlosen Befristungen von Arbeitsverträgen im öffentlichen Dienst geben.'
+5. 'Der Verwaltungskostenbeitrag für Studierende an Hochschulen in Brandenburg soll abgeschafft werden.'
+6. 'Es sollen weiterhin Informationsveranstaltungen der Bundeswehr an brandenburgischen Schulen stattfinden dürfen.'
+7. 'Das Tanzverbot an stillen Tagen (z.B. Karfreitag, Volkstrauertag) soll abgeschafft werden.'
+8. 'Der Verwaltungskostenbeitrag für Studierende an Hochschulen in Brandenburg soll abgeschafft werden.'
+9. 'Beim Neubau von Wohnungen soll ein höherer Anteil als bisher für sozialen Wohnungsbau vorgesehen sein.'
+10. 'Auf jeder Allee in Brandenburg soll ein Tempolimit von 70 km/h gelten.'
+11. 'Die Bremer Außenweser soll für große Schiffe weiter vertieft werden.'
+
+### Social Policies and Labor:
+1. 'Das Land soll Schulen in freier Trägerschaft stärker finanziell fördern.'
+2. 'Rauchen soll in allen Gaststätten im Land Bremen ausnahmslos verboten werden.'
+3. 'Bei der Besetzung von Wahllisten für den brandenburgischen Landtag sollen abwechselnd Frauen und Männer vertreten sein.'
+4. 'Eltern sollen sich weiterhin an den Kosten für die Betreuung ihrer Kinder unter drei Jahren beteiligen.'
+
+### Separate Topics:
+1. 'Das Land Brandenburg soll Modellprojekte zum bedingungslosen Grundeinkommen durchführen.' (Also fits in Economic Policies)
+2. 'Das Wahlalter bei Landtagswahlen in Brandenburg soll auf 14 Jahre gesenkt werden.' (Governance and Administration)

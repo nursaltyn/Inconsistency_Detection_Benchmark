@@ -1,0 +1,72 @@
+Here are the statements grouped by likely support:
+
+1. Infrastructure and Transportation Development:
+   - 'Bei erheblichen Zahlungsverzug soll privaten Haushalten auch zukünftig der Strom abgestellt werden dürfen.'
+   - 'Der Flughafen Saarbrücken soll weiterhin in Betrieb bleiben.'
+   - 'Die Nordsaarlandstraße zwischen Nonnweiler und Merzig soll fertig gebaut werden.'
+   - 'Auf der Ostertalbahn zwischen Ottweiler und Schwarzerden sollen regelmäßig Nahverkehrszüge fahren.'
+   - 'Die Autobahn A20 soll wie geplant mit der Elbquerung westlich von Hamburg weitergebaut werden.'
+   - 'Das 5G-Mobilfunknetz im Saarland soll schnellstmöglich ausgebaut werden.'
+
+2. Education and Cultural Policies:
+   - 'An saarländischen Schulen soll weiterhin konfessioneller Religionsunterricht angeboten werden.'
+   - 'An mehr Schulen im Saarland soll verpflichtender Ganztagsunterricht eingeführt werden.'
+   - 'Der Eintritt in landeseigene Museen soll für alle frei sein.'
+   - 'Politische Bildung soll bereits ab der ersten Klassenstufe in allen Schulformen Schleswig-Holsteins verpflichtend unterrichtet werden.'
+   - 'Ein Teil der Medizinstudienplätze in Schleswig-Holstein soll an Menschen vergeben werden, die sich verpflichten, anschließend als Ärztin oder Arzt auf dem Land zu arbeiten.'
+   - 'Der Besuch einer Gedenkstätte, die an die Verbrechen des Nationalsozialismus erinnert, soll für alle Schülerinnen und Schüler in Schleswig-Holstein verpflichtend sein.'
+
+3. Social and Labor Policies:
+   - 'Die Parteien sollen ihre Listen für die Wahl zum Landtag des Saarlandes abwechselnd mit Frauen und Männern besetzen müssen.'
+   - 'Für Führungspositionen im öffentlichen Dienst des Landes soll es eine Frauenquote geben.'
+   - 'Aufträge des Landes sollen nur an Unternehmen vergeben werden, die Tariflöhne zahlen.'
+   - 'Die Zahl der Nutztiere soll im Verhältnis zur landwirtschaftlichen Fläche eines Betriebes begrenzt werden.'
+   - 'Lehrkräfte aller Schulformen sollen das gleiche Einstiegsgehalt erhalten.'
+   - 'Das Saarland soll verstärkt Fachkräfte aus dem Ausland anwerben.'
+   
+4. Environmental and Nature Conservation:
+   - 'Weitere Waldflächen im Saarland sollen ohne Bewirtschaftung einer natürlichen Entwicklung überlassen werden.'
+   - 'In Schleswig-Holstein soll die Bebauung naturnaher Flächen stärker gesetzlich begrenzt werden.'
+
+5. Healthcare and Hospitals:
+   - 'Im Saarland sollen mehr Krankenhäuser in öffentlicher Trägerschaft sein.'
+   - 'In Schleswig-Holstein sollen mehr Krankenhäuser in öffentlicher Hand sein.'
+
+6. Public Administration and Security:
+   - 'Die saarländische Polizei soll nach richterlichem Beschluss auf verschlüsselte Nachrichten in Messenger-Diensten (z.B. WhatsApp, Telegram, Threema) Zugriff haben.'
+   - 'In Schleswig-Holstein soll die Polizei auch verdachtsunabhängige Personenkontrollen durchführen dürfen.'
+   
+7. Policies Related to Foreign Nationals:
+   - 'Asylbewerberinnen und -bewerber in Schleswig-Holstein sollen unmittelbar nach ihrer Antragsstellung eine Arbeitserlaubnis erhalten.'
+   - 'Das Saarland soll ausreisepflichtige Ausländerinnen und Ausländer konsequent abschieben.'
+   - 'Schleswig-Holstein soll abgelehnte Asylbewerberinnen und -bewerber konsequent abschieben.'
+    
+8. Economic and Business Development:
+   - 'Die Landesregierung soll die Ansiedlung des Batterieherstellers SVOLT auf dem Linslerfeld bei Überherrn unterstützen.'
+   - 'Die Hochschulen des Saarlandes sollen stärker mit privaten Unternehmen zusammenarbeiten.'
+   - 'Die staatlichen Hochschulen Schleswig-Holsteins sollen stärker mit privaten Unternehmen zusammenarbeiten.'
+   - 'Die RAG Aktiengesellschaft soll das Grubenwasser in den stillgelegten Kohlegruben im Saarland ansteigen lassen dürfen.'
+   - 'Eltern sollen sich weiterhin an den Kosten für die Betreuung ihrer Kinder in Kitas beteiligen.'
+
+9. Alternative Energy and Renewable Resources:
+   - 'In Schleswig-Holstein sollen keine weiteren Flächen für Windkraftanlagen ausgewiesen werden.'
+
+10. Government and Public Policy:
+    - 'Die kommunale Grundversorgung (z.B. Gas, Strom und Müllabfuhr) soll ausschließlich in öffentlicher Hand sein.'
+    - 'Kommunen in Schleswig-Holstein sollen selbst entscheiden dürfen, ob sie Geflüchtete aufnehmen.'
+    - 'Interessenvertreterinnen und Interessenvertreter, die Zugang zum Landtag haben, sollen in einer öffentlichen Liste („Lobbyregister“) erfasst werden.'
+
+11. Legal and Regulatory Policies:
+    - 'Private Wohnungen in Schleswig-Holstein sollen weiterhin als Ferienwohnungen vermietet werden dürfen.'
+    - 'Im Saarland sollen keine weiteren Bordelle eine Betriebserlaubnis erhalten.'
+    - 'Das Land soll sich dafür einsetzen, dass die Mitnahme weggeworfener Lebensmittel aus Müllcontainern von Supermärkten weiterhin strafbar sein soll.'
+    - 'Das Land soll sich dafür einsetzen, dass für alle Volljährigen eine allgemeine Impfpflicht gegen Covid-19 gelten soll.'
+    - 'Die Steuer auf den Erwerb von selbstgenutztem Wohneigentum soll gesenkt werden.'
+
+12. Public Transport and Mobility:
+    - 'Die Landesmittel für den öffentlichen Personennahverkehr sollen vorrangig im ländlichen Raum eingesetzt werden.'
+    - 'Im gesamten öffentlichen Personennahverkehr Schleswig-Holsteins soll die Fahrradmitnahme weiterhin kostenpflichtig sein.'
+    - 'In ganz Schleswig-Holstein soll im öffentlichen Personennahverkehr ein 365-Euro-Jahresticket eingeführt werden.'
+
+13. Handling of the Covid-19 Pandemic:
+    - 'Demonstrationen sollen bei Verstößen gegen Corona-Schutzmaßnahmen konsequent aufgelöst werden.'
