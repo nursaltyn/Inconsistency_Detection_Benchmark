@@ -1,5 +1,7 @@
 # Misleading through Inconsistency: A Benchmark for Political Inconsistencies Detection
 
+This repository contains code for the paper Misleading through Inconsistency: A Benchmark for Political Inconsistencies Detection.
+
 📂 project_root/ # Root directory
 │-- 📜 README.md # Project documentation
 │-- 📜 requirements.txt # List of dependencies
