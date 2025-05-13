@@ -4,6 +4,7 @@ This repository contains code for the paper Misleading through Inconsistency: A 
 
 ```
 ├── 📜 README.md
+├── 📜 requirements.txt
 ├── 📂 data
 │   ├── 📄 df_gold.csv # The dataset file
 │   ├── 📂 model_evaluations # Files with model evaluations results
@@ -32,7 +33,6 @@ This repository contains code for the paper Misleading through Inconsistency: A 
 
 ## License
 
-Code is licensed under the [MIT License](LICENSE).  
-All non-code content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Please cite our paper if you use this repository. The citation will be provided soon.
