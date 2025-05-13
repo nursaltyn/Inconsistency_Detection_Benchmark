@@ -31,6 +31,8 @@ This repository contains code for the paper Misleading through Inconsistency: A 
     └── 📂 confusion_matrices
 ```
 
+More details on the dataset and code usage will follow soon.
+
 ## License
 
 The dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
